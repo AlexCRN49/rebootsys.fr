@@ -1,0 +1,617 @@
+// @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+// Enveloppe interne du Header //
+.masthead__inner-wrap {
+  max-width: 100% !important; // Force la largeur maximale à être égale à 100% de son conteneur parent (écrase les styles du thème avec !important) //
+  width: 100%;                // Prend toute la largeur disponible //
+}
+
+// Conteneur principal //
+.masthead {
+  max-width: 100% !important;  // Même logique : supprime la limite de largeur maximale (du thème) pour un affichage pleine largeur //
+  width: 100%;                 // Prend 100% de la largeur de la fenêtre //
+  padding-left: 2rem;          // Ajoute un peu d’espace intérieur à gauche //
+  padding-right: 2rem;         // Idem à droite */!
+  box-sizing: border-box;      // Inclut le padding dans la largeur totale (évite de dépasser le 100%) //
+}
+
+// Titre du site dans le Header //
+.site-title {
+  font-family: 'Orbitron', monospace !important;
+  font-size: 1.05rem; /* tu peux adapter */
+}
+
+// Logo du site dans le Header //
+.site-title img {
+  height: 40px; /* ajuste cette valeur selon ton image */
+  max-height: none;
+  width: 40px;
+}
+
+// Menu de navigation avec liens visibles //
+.greedy-nav .visible-links > li > a {
+  font-family: 'Press Start 2P', sans-serif;
+  font-size: 0.7rem;
+//   text-transform: uppercase;
+}
+
+
+// Conteneur de l'image en plein largeur //
+.hero-image {
+  position: relative;             // Nécessaire si tu veux positionner des éléments à l’intérieur //
+  left: 50%;                      // Décale le bloc vers la droite de 50% de la largeur du conteneur //
+  right: 50%;                     // Non nécessaire ici (souvent ignoré si left est défini) //
+  margin-left: -50vw;             // Tire le bloc vers la gauche de la moitié de la largeur de la fenêtre, pour centrer //
+  margin-right: -50vw;            // Idem à droite pour neutraliser tout padding du conteneur parent //
+  width: 100vw;                   // Prend 100% de la largeur de la fenêtre, pas juste du conteneur //
+  overflow: hidden;               // Coupe tout débordement (utile si l’image déborde visuellement) //
+  margin-top: 0 !important;                  // Supprime l’espace au-dessus du bloc //
+  padding-top: 0 !important;                 // Supprime tout padding supérieur //
+  margin-bottom: 2em !important;            // Laisse un espace après l’image avant les éléments suivants //
+  padding-bottom: 0 !important;
+
+}
+
+// Image dans le conteneur //
+.hero-image img {
+  width: 100%;                   // L’image remplit entièrement le conteneur //
+  height: auto;                  // Hauteur proportionnelle à la largeur pour garder les proportions //
+  display: block;                // Supprime l’espace blanc en bas de l’image (le comportement inline des images par défaut) //
+  margin: 0;                     // Aucun espace autour de l’image //
+  padding: 0;                    // Aucun remplissage autour de l’image //
+}
+
+// // Supprimer la marge au-dessus du contenu de la page d’accueil //
+// .page--home .page__content {
+//   margin-top: 0 !important;
+//   padding-top: 0 !important;
+// }
+
+// // Si jamais le layout ajoute une section avant, on la force à 0 aussi //
+// .page--home .initial-content {
+//   margin-top: 0 !important;
+//   padding-top: 0 !important;
+// }
+
+/* Supprimer la marge ou le padding en bas du contenu initial */
+.initial-content {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Supprimer la marge ou le padding en haut du contenu de la page */
+.page-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
+// // Supprimer les bordures ou ombres sous le header //
+// .masthead {
+//   border-bottom: none !important;
+//   box-shadow: none !important;
+//   margin-bottom: 0 !important;
+// }
+
+.masthead {
+  border-bottom: 4px solid #41b0f2 !important;
+}
+
+
+// Supprime les marges invisibles au début du contenu //
+.initial-content,
+.page__content,
+.page--home .page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+// Supprime un éventuel skip-link qui force une ligne visible //
+.skip-links {
+  display: none !important;
+}
+
+// /* Style pour l'avatar de l'auteur (cercle + bordure) */
+/* Force le conteneur à être un cercle parfait */
+.author__avatar {
+  border: 6px solid var(--mm-primary-color, #41b0f2) !important;
+  border-radius: 50% !important;
+  width: 170px !important;
+  height: 170px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+  margin: 0 auto 1rem !important;
+  display: block !important;
+  position: relative !important;
+  max-width: none !important; /* Annule tout max-width */
+  max-height: none !important; /* Annule tout max-height */
+}
+
+/* Force l'image à remplir le cercle */
+.author__avatar img {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
+  max-width: none !important; /* Annule tout max-width */
+  max-height: none !important; /* Annule tout max-height */
+}
+
+// // Sidebar author //
+// .author__avatar {
+//   border: 6px solid var(--mm-primary-color, #41b0f2); /* bleu du thème ou fallback */
+//   border-radius: 50% !important; /* cercle parfait */
+//   overflow: hidden;
+//   width: 170px;
+//   height: 170px;
+//   object-fit: cover;
+//   box-sizing: border-box;
+//   margin: 0 0 1rem 0 !important; /* plus de auto, aligne à gauche */
+//   display: block;
+// }
+
+.author__name {
+  display: inline-block;
+  position: relative;
+}
+
+.author__name::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px; /* Ajustez cette valeur pour positionner la barre correctement */
+  width: 100%;
+  height: 2px;
+  background-color: #41b0f2; /* Couleur de la barre */
+  transform: scaleX(1); /* Ajustez cette valeur pour changer la largeur de la barre */
+  transform-origin: left center;
+}
+
+
+// Mise en page horizontale du conteneur principal //
+.page {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* pour que le contenu ne soit pas décalé */
+}
+
+// Aligner le sidebar à gauche //
+.sidebar {
+  width: 220px; /* ou la largeur souhaitée */
+  margin: 0;
+  padding: 1rem;
+}
+
+// Ajuster la larguer de la colonne principale //
+.page__main {
+  flex: 1;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+// Animation d'écriture Machine à écrire
+.typewriter-line {
+  display: inline-flex;
+  align-items: flex-end;
+  font-size: 2rem;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+.static-text {
+  color: #000;
+  font-weight: bold;
+  font-family: inherit; /* Police par défaut du thème */
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: -0.1rem; /* Ajuste finement la hauteur */
+}
+
+.typewriter-line .typewriter-text {
+  color: #41b0f2 !important;  /* bleu thème */
+  font-family: 'Press Start 2P', monospace;
+  overflow: hidden;
+  display: inline-block;
+  border-right: 3px solid #41b0f2;
+  animation: typing 3s steps(20, end) forwards, blink-caret 0.75s step-end infinite;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.tight-space {
+  margin-right: -0.5em; /* Ajuste la valeur selon l’effet désiré */
+}
+
+.typewriter-line .typewriter-text:hover {
+  color: red !important;
+  border-right-color: red !important;
+}
+
+/* Animation d’écriture */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 14ch }
+}
+
+/* Curseur clignotant */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #41b0f2 }
+}
+
+#typing-effect {
+  font-size: 1.75em;
+  font-weight: bold;
+  color: #333;
+  display: inline-block;
+  white-space: nowrap;
+  height: 1.75em; /* Ajustez cette valeur en fonction de la taille de votre texte */
+  line-height: 1.75em; /* Assurez-vous que la hauteur de la ligne correspond à la hauteur de l'élément */
+  vertical-align: middle; /* Aligne verticalement le texte au milieu */
+  overflow: hidden; /* Empêche le texte de dépasser de l'élément */
+}
+
+// Appliquer la largeur maximale à la colonne centrale
+.full-width-content .page {
+  max-width: 100% !important;
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+// Supprimer les traits de bordure autour des titre H1
+.page__content h1, 
+.page__content .page__title {
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+// Timeline
+.timeline {
+  position: relative;
+  padding-left: 30px;
+  list-style: none;
+}
+
+.timeline:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: #41b0f2;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.timeline-item:before {
+  content: '';
+  position: absolute;
+  left: -36px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #41b0f2;
+}
+
+.timeline-content {
+  display: flex;
+  align-items: center;
+  background: #f9f9f9;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 30px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+
+.logo-mechain {
+  width: 180px;
+  height: 68px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+
+.timeline-text {
+  flex: 1;
+}
+
+.timeline-text h3 {
+  margin-top: 0;
+}
+
+.timeline-text p {
+  margin-bottom: 0;
+}
+
+/* Conteneur principal avec scroll snap */
+.x.mandatory-scroll-snapping.scroll-snap-first {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden; /* Pas de scroll vertical */
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  /* Astuce : ajouter un padding-bottom pour laisser de la place aux infobulles */
+  padding-bottom: 40px;
+  margin-bottom: -20px; /* Compense le padding-bottom pour éviter un saut de layout */
+}
+
+/* Style pour chaque slide */
+.x.mandatory-scroll-snapping.scroll-snap-first .slide {
+  scroll-snap-align: start;
+  flex: none;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+/* Style pour les liens dans les slides */
+.x.mandatory-scroll-snapping.scroll-snap-first .slide a {
+  display: flex;
+  text-decoration: none;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Style pour les images dans les slides */
+.x.mandatory-scroll-snapping.scroll-snap-first .slide img {
+  max-height: 200px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Infobulle personnalisée (en dessous de l'image) */
+.x.mandatory-scroll-snapping.scroll-snap-first .slide a::after {
+  content: attr(title);
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+  z-index: 100;
+}
+
+.x.mandatory-scroll-snapping.scroll-snap-first .slide a:hover::after {
+  opacity: 1;
+}
+
+
+
+/* Gestion des photos Entreprise */
+/* Galerie polaroid horizontale */
+.polaroid-gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0;
+  margin: 2em 0;
+  padding: 20px;
+  overflow: hidden;
+
+  .polaroid {
+    padding: 10px 10px 30px 10px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin: 0 -10px;
+    transform: rotate(-5deg);
+    transition: transform 0.3s;
+    width: 300px;
+    text-align: center;
+    position: relative;
+
+    &:nth-child(2) { transform: rotate(3deg); }
+    &:nth-child(3) { transform: rotate(-2deg); }
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    figcaption {
+      margin-top: 10px;
+      font-size: 0.9em;
+      color: #333;
+      /* Utilise la police par défaut du thème */
+      font-family: $sans-serif;
+    }
+
+    &:hover {
+      transform: rotate(0) scale(1.05);
+      z-index: 10;
+    }
+  }
+}
+
+
+
+
+// // Ligne de séparation bleue
+// .hr-bleue {
+//   border: none;
+//   height: 3px;
+//   background-color: #2a7ae2;
+//   margin: 2rem 0;
+// }
+
+// Changer la couleur et l'épaisseur de la bordure sous les titres h1 et h2 en bleu
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: 4px solid #41b0f2 !important;
+  padding-bottom: 12px !important;
+}
+
+/* Scroll-snapping Veille */
+.x.mandatory-scroll-snapping.scroll-snap-second {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden; /* Pas de scroll vertical */
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  /* Espace réservé pour les infobulles */
+  padding-bottom: 50px;
+  margin-bottom: -30px; /* Compense le padding-bottom */
+}
+
+.x.mandatory-scroll-snapping.scroll-snap-second .slide {
+  display: flex;
+  flex: 0 0 auto;
+  width: 100%;
+  scroll-snap-align: start;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px;
+  flex-shrink: 0;
+  position: relative; /* Pour le positionnement des infobulles */
+}
+
+.x.mandatory-scroll-snapping.scroll-snap-second .slide img {
+  height: 200px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Infobulle personnalisée (en dessous de l'image) */
+.x.mandatory-scroll-snapping.scroll-snap-second .slide a {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.x.mandatory-scroll-snapping.scroll-snap-second .slide a::after {
+  content: attr(title);
+  position: absolute;
+  top: calc(100% + 15px); /* Positionne l'infobulle sous l'image */
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+  z-index: 100;
+}
+
+.x.mandatory-scroll-snapping.scroll-snap-second .slide a:hover::after {
+  opacity: 1;
+}
+
+
+
+/* Style pour les cases à cocher bleues */
+input[type="checkbox"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #41b0f2;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  margin-right: 8px;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #41b0f2;
+  border-color: #41b0f2;
+}
+
+input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.rss-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.rss-card {
+  background-color: #f7f7f7;
+  border-left: 4px solid #007acc;
+  padding: 1rem;
+  border-radius: 6px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.rss-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.rss-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.rss-card h3 a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.rss-card .rss-date {
+  font-size: 0.85rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}

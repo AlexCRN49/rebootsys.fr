@@ -1,0 +1,80 @@
+main:
+  - title: "À propos"
+    url: "/portfolio/about/"
+  - title: "Formation"
+    url: "/portfolio/training/"
+  - title: "Alternance"
+    url: "/portfolio/company/"
+  - title: "Réalisations"
+    url: "/portfolio/realisations/"
+ # - title: "Épreuve E6"
+ #   url: "/portfolio/projects/"
+ # - title: "Compétences"
+ #   url: "/portfolio/skills/"
+  - title: "Veille technologique"
+    url: "/portfolio/veille/"
+  - title: "Contact"
+    url: "/portfolio/contact/"
+
+# docs:
+#   - title: Portfolio
+#     children:
+#       - title: "À propos"
+#         url: /portfolio/about/
+#       - title: "Formation"
+#         url: /portfolio/training/
+#       - title: "Entreprise"
+#         url: /portfolio/company/
+#       - title: "Compétences"
+#         url: /portfolio/skills/
+#       - title: "Veille technologique"
+#         url: /portfolio/watch/
+#       - title: "Contact"
+#         url: /portfolio/contact/
+        
+#   - title: Formation
+#     children:
+#       - title: "BTS SIO"
+#         url: /docs/bts_sio/
+#       - title: "Navigation"
+#         url: /docs/navigation/
+#       - title: "UI Text"
+#         url: /docs/ui-text/
+#       - title: "Authors"
+#         url: /docs/authors/
+#       - title: "Layouts"
+#         url: /docs/layouts/
+
+#   - title: Entreprise
+#     children:
+#       -title: "Delivagri"
+#       url: /docs/Delivagri
+
+#   - title: Réalisations
+#     children:
+#       - title: "Proxmox"
+#         url: /docs/proxmox/
+#       - title: "OpenSign"
+#         url: /docs/opensign/
+#       - title: "GLPI"
+#         url: /docs/glpi/
+
+#   - title: Compétences
+#     children:
+#       - title: "Formations en ligne"
+#         url: /docs/online-training/
+#       - title: "Autoformation"
+#         url: /docs/autotraining/
+#       - title: "Formations en cours de BTS"
+#         url: /docs/bts_trainig
+#       - title: "Synthèse E5"
+#         url: /docs/synthese-e5/
+
+#   - title: Veille Technologique
+#     children:
+#       - title: "IT"
+#         url: /docs/it/
+#       - title: "Cybersécurité"
+#         url: /docs/cybersecurity/
+#       - title: "IA"
+#         url: /docs/ia/

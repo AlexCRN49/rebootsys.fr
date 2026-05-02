@@ -1,0 +1,26 @@
+<div style="position:relative; padding-left:2.5rem; margin:2rem 0;">
+
+  <!-- Ligne verticale -->
+  <div style="position:absolute; left:1rem; top:0; bottom:0; width:2px; background:#41b0f2;"></div>
+
+  {% assign steps = include.steps %}
+  {% assign last_index = steps.size | minus: 1 %}
+
+  {% for step in steps %}
+    {% if forloop.last %}
+      {% assign circle_color = "#5cb85c" %}
+    {% else %}
+      {% assign circle_color = "#41b0f2" %}
+    {% endif %}
+
+    <div style="position:relative; margin-bottom:{% if forloop.last %}0{% else %}1.5rem{% endif %};">
+      <div style="position:absolute; left:-2.5rem; top:0.6rem; width:2rem; height:2rem; background:{{ circle_color }}; border-radius:50%; display:flex; align-items:center; justify-content:center;">
+        <i class="{{ step.icon }}" style="color:white; font-size:0.8rem;"></i>
+      </div>
+      <div style="background:#f8f9fa; border:1px solid #e0e0e0; border-radius:6px; padding:0.8rem 1rem;">
+        <strong>{{ forloop.index }}. {{ step.title }}</strong>{% if step.detail %} : {{ step.detail }}{% endif %}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
