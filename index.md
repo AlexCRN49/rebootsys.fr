@@ -97,12 +97,20 @@ sidebar:
     </div>
 
     <div class="card">
+      <a href="/portfolio/realisations/">
+        <img src="/assets/images/picture/home/skills.jpg" alt="Réalisations">
+      </a>
+      <h3>Compétences</h3>
+      <p>Mes réalisations.</p>
+    </div>
+
+    <!-- <div class="card">
       <a href="/portfolio/skills/">
         <img src="/assets/images/picture/home/skills.jpg" alt="Compétences">
       </a>
       <h3>Compétences</h3>
       <p>Mes compétences acquises.</p>
-    </div>
+    </div> -->
 
   </div>
 
