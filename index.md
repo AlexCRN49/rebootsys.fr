@@ -85,23 +85,20 @@ sidebar:
         <img src="/assets/images/picture/home/training.jpg" alt="Formation">
       </a>
       <h3>Formation</h3>
-      <p>Mon parcours de formation.</p>
     </div>
 
     <div class="card">
       <a href="/portfolio/company/">
         <img src="/assets/images/picture/home/company.jpg" alt="Entreprise">
       </a>
-      <h3>Entreprise</h3>
-      <p>Mon alternance en entreprise.</p>
+      <h3>Alternance</h3>
     </div>
 
     <div class="card">
       <a href="/portfolio/realisations/">
         <img src="/assets/images/picture/home/skills.jpg" alt="Réalisations">
       </a>
-      <h3>Compétences</h3>
-      <p>Mes réalisations.</p>
+      <h3>Réalisations</h3>
     </div>
 
     <!-- <div class="card">
