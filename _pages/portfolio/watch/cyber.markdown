@@ -41,7 +41,7 @@ La manière d'opérer à évoluer vers la **triple extorsion** , c'est-à-dire l
 
 ### L'incident CrowdStrike
 
-En juillet 2024, une mise à jour défectueuse du logiciel **CrowdStrike Falcon** provoque le plantage de **8,5 millions de machines Windows** dans le monde en quelques heures, impactant des services critiques. L'incident CrowdStrike est référence comme l'une des pannes informatiques les plus étendues de l'histoire, causée non pas par une attaque, mais par l'outil lui-même.
+En juillet 2024, une mise à jour défectueuse du logiciel **CrowdStrike Falcon** provoque le plantage de **8,5 millions de machines Windows** dans le monde en quelques heures, impactant des services critiques. L'incident CrowdStrike est référencé comme l'une des pannes informatiques les plus étendues de l'histoire, causée non pas par une attaque, mais par l'outil lui-même.
 
 Cet incident révèle la **fragilité structurelle** des systèmes interconnectés et la dépendance à des acteurs uniques. Cet incident rappelle qu'aucun déploiement en production ne devrait être effectué sans validation préalable en environnement de test.
 
@@ -62,7 +62,7 @@ Il s'agit d'un changement notable car les cyberattaquants ne s'attaquent plus au
 
 La directive **NIS2** est entrée en vigueur le **18 octobre 2024** et concerne environ **15 000 entités** en France sur 18 secteurs. La transposition nationale progresse puisque le projet de loi "Résilience" a été adopté au Sénat en mars 2025.
 
-En tant que futur technicien en solution d'infrastructure systèmes et réseaux opérant en France, mes fonctions seront directement impactéd par cette directive.
+En tant que futur technicien en solution d'infrastructure systèmes et réseaux opérant en France, mes fonctions seront directement impacté par cette directive.
 
 [numeum.fr - Directive NIS2 : le nouveau cadre européen](https://numeum.fr/cybersecurite/directive-nis2-quelles-nouvelles-exigences-pour-les-organisations-en-france/) *(avr. 2025)*  
 [itforbusiness.fr - NIS2 : un retard qui fragilise notre écosystème numérique](https://www.itforbusiness.fr/nis-2-un-retard-qui-fragilise-notre-ecosysteme-numerique-101998) *(avr. 2026)*
