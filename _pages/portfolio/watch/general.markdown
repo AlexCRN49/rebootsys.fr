@@ -47,9 +47,9 @@ Le schéma est récurrent : mise à jour déployée, bug constaté, correctif ho
 
 ### La montée de Linux et des alternatives open source
 
-J'ai suivi avec intérêt la progression de **Linux** et des solutions **open source** comme alternatives aux solutions propriétaires. Ce n'est plus un choix militant ou économique uniquement — cela a évolué vers une réponse technique et stratégique à des questions de dépendance et de maîtrise des environnements. La généralisation du **cloud hybride** et du **multi-cloud** suit la même logique : éviter la dépendance, garder la maîtrise de ses données et de son environnement de travail.
+J'ai suivi avec intérêt la progression de **Linux** et des solutions **open source** comme alternatives aux solutions propriétaires. Ce n'est plus un choix militant ou économique uniquement, cela a évolué vers une réponse technique et stratégique à des questions de dépendance et de maîtrise des environnements. La généralisation du **cloud hybride** et du **multi-cloud** suit la même logique : éviter la dépendance, garder la maîtrise de ses données et de son environnement de travail.
 
-Linux a franchi en juin 2025 la barre symbolique des **5% de parts de marché** aux États-Unis, son plus haut niveau jamais atteint. Il avait fallu huit ans pour passer de 1 à 2%, puis deux autres années pour atteindre 3%. Depuis, la dynamique s'est installée : 4% en sept mois, puis 5% quatre mois plus tard. En Europe, Linux atteint **5,23%** du marché. Ce n'est pas une révolution, mais c'est un signal que quelque chose change — et la lassitude croissante vis-à-vis de Windows n'y est pas étrangère.
+Linux a franchi en juin 2025 la barre symbolique des **5% de parts de marché** aux États-Unis, son plus haut niveau jamais atteint. Il avait fallu huit ans pour passer de 1 à 2%, puis deux autres années pour atteindre 3%. Depuis, la dynamique s'est installée : 4% en sept mois, puis 5% quatre mois plus tard. En Europe, Linux atteint **5,23%** de part de marché. Ce n'est pas une révolution, mais c'est un signal que quelque chose change et la lassitude croissante vis-à-vis de Windows n'y est pas étrangère.
 
 [actdigital.com - 7 tendances de l'externalisation IT en 2025](https://actdigital.com/fr/insights/7-tendances-de-lexternalisation-it-en-2025/) *(févr. 2026)*  
 [solutions-numeriques.com - Trois tendances qui redéfiniront les infrastructures Cloud en 2026](https://www.solutions-numeriques.com/avis-dexpert-trois-tendances-qui-redefiniront-les-infrastructures-cloud-des-entreprises-et-des-administrations-en-2026/) *(janv. 2026)*  
@@ -65,7 +65,7 @@ Depuis début 2026, les choses se sont accélérées. La **DINUM** a publié **S
 
 Je retiens que la France semble avoir franchi un cap sur ce sujet. Cependant, l'open source ne signifie pas indépendance si les composants sous-jacents échappent au contrôle national. Mistral est présenté comme souverain, mais ses modèles ont été entraînés sur l'infrastructure **Azure** de Microsoft, et son premier actionnaire est néerlandais. Ce sont des nuances importantes à appréhender.
 
-Sur le plan technique, cette migration concerne directement le métier d'administrateur systèmes et réseaux. Remplacer un écosystème **Windows/Active Directory/GPO** par un environnement **NixOS** déclaratif constitue une transformation profonde des pratiques d'administration et d'utilisation que je suis avec intérêt.
+Sur le plan technique, cette migration concerne directement le métier d'administrateur systèmes et réseaux. Remplacer un écosystème **Windows/Active Directory/GPO** par un environnement **NixOS** constitue une transformation profonde des pratiques d'administration et d'utilisation que je suis avec intérêt.
 
 [it-connect.fr - Sécurix et Bureautix : le Linux de l'État pour remplacer Windows](https://www.it-connect.fr/securix-et-bureautix-le-linux-de-etat-pour-remplacer-windows/) *(avr. 2026)*  
 [lemagit.fr - Polémique autour de LaSuite : la DINUM se défend](https://www.lemagit.fr/actualites/366638848/Polemique-autour-de-LaSuite-la-DINUM-se-defend-et-ne-ferme-pas-la-porte-au-prive/) *(févr. 2026)*  
