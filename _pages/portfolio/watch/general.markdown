@@ -5,7 +5,7 @@ permalink: /watch/general/
 classes: wide
 author_profile: true
 read_time: true
-show_date: true
+show_date: false
 toc: true
 toc_label: "Contenu"
 ---
