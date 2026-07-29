@@ -1,0 +1,19 @@
+document.addEventListener('DOMContentLoaded', function() {
+  var typedStrings = [
+    'Je suis en reconversion professionnelle',
+    'Je suis en alternance',
+    'Je suis en Licence Informatique spécialité Administration des systèmes et réseaux sécurisés'
+  ];
+
+  setTimeout(function() {
+    var typed = new Typed('#typing-effect', {
+      strings: typedStrings,
+      typeSpeed: 50,
+      backSpeed: 50,
+      loop: true,
+      showCursor: true,
+      cursorChar: '|',
+      autoInsertCss: false
+    });
+  }, 4000); // Délai de 4000 millisecondes (4 secondes)
+});

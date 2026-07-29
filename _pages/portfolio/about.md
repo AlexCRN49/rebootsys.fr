@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-date: 03/08/2025
+date: 29/07/2026
 layout: single
 search: true
 permalink: /portfolio/about/
@@ -14,11 +14,15 @@ toc_label: "Sur cette page"
 
 ## <i class="fa-solid fa-address-card"></i> Présentation
 
-**Alexis COURTIN**, alternant en reconversion professionnelle en deuxième année de **BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d'Infrastructures Systèmes et Réseaux)** au Campus ESPL de Angers (49100).
+**Alexis COURTIN**
+Administrateur Systèmes et Réseaux Sécurisés en alternance
 
-Titulaire d'un baccalauréat Scientifique spécialité Sciences et Vie de la Terre et d'un BTS Analyses Biologiques, j'ai exercé les professions de :
-- technicien de laboratoire en analyses biologiques pendant plus de 5 années ;
-- militaire de la Gendarmerie pendant 12 ans.
+Après une première carrière riche d'enseignements, j'ai validé la première étape de ma **reconversion professionnelle** en obtenant le **BTS SIO option SISR** en **juin 2026**.
+Dès **octobre 2026**, j'affûte mes compétences en intégrant la **Licence Informatique ASRS (Administration des Systèmes et Réseaux Sécurisés)** sur le campus ESUPEC/CNAM de CHOLET (49).
+
+Mon parcours s'appuie sur une forte culture de la rigueur et du protocole, forgée lors de mes précédentes fonctions :
+- 12 ans au sein de la Gendarmerie Nationale notamment comme C'NTECH;
+- 6 ans en tant que Technicien de laboratoire en analyses biologiques (BTS AB / Bac S).
 
 {% comment %}
 <div style="border:1px solid #ccc; border-radius:8px; margin-bottom:1rem; overflow:hidden;">
