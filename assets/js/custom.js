@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var typedStrings = [
     'Je suis en reconversion professionnelle',
     'Je suis en alternance',
-    'Je suis en 2ème année de BTS SIO option SISR'
+    'Je suis en Licence Informatique spécialité Administration des systèmes et réseaux sécurisés'
   ];
 
   setTimeout(function() {

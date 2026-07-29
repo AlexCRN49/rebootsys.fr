@@ -41,15 +41,12 @@ sidebar:
 }
 
 .card-container {
-  display: flex;
-  flex-wrap: nowrap;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
-  justify-content: space-between;
 }
 
 .card {
-  flex: 0 0 30%;
-  max-width: 30%;
   text-align: center;
 }
 
@@ -64,14 +61,16 @@ sidebar:
   transform: scale(1.03);
 }
 
-/* Responsive : les cartes passent en colonne sur mobile */
+/* Responsive : 2 colonnes en tablette, 1 colonne en mobile */
 @media (max-width: 900px) {
   .card-container {
-    flex-wrap: wrap;
+    grid-template-columns: repeat(2, 1fr);
   }
-  .card {
-    flex: 0 0 100%;
-    max-width: 100%;
+}
+
+@media (max-width: 500px) {
+  .card-container {
+    grid-template-columns: 1fr;
   }
 }
 </style>
@@ -89,7 +88,7 @@ sidebar:
 
     <div class="card">
       <a href="/portfolio/company/">
-        <img src="/assets/images/picture/home/company.jpg" alt="Entreprise">
+        <img src="/assets/images/picture/home/company.jpg" alt="Alternance">
       </a>
       <h3>Alternance</h3>
     </div>
@@ -102,6 +101,13 @@ sidebar:
     </div>
 
     <!-- <div class="card">
+      <a href="/portfolio/homelab/">
+        <img src="/assets/images/picture/home/homelab.jpg" alt="Homelab">
+      </a>
+      <h3>Homelab</h3>
+    </div>
+
+    <div class="card">
       <a href="/portfolio/skills/">
         <img src="/assets/images/picture/home/skills.jpg" alt="Compétences">
       </a>
