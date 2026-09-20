@@ -11,7 +11,9 @@ toc: true
 toc_label: "Sur cette page"
 ---
 
-## <i class="fa-solid fa-bullseye"></i> Objectif de l'épreuve E5
+EN TRAVAUX
+
+<!-- ## <i class="fa-solid fa-bullseye"></i> Objectif de l'épreuve E5
 
 L’épreuve E5 du BTS SIO, option SISR, a pour objectif principal d’évaluer l’acquisition des compétences du bloc « Administration des systèmes et des réseaux ».  
 
@@ -626,4 +628,4 @@ L’épreuve E5 du BTS SIO, option SISR, a pour objectif principal d’évaluer 
       </p>
     </div>
   </details>
-</div>
+</div> -->

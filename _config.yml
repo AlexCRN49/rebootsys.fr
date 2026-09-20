@@ -113,13 +113,13 @@ analytics:
 author:
   name: "Alexis COURTIN"
   avatar: "/assets/images/profil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Alternant en seconde année de BTS SIO option SISR."
+  bio: "Technicien Systèmes et Réseaux, diplômé du BTS SIO option SISR, actuellement en Licence Informatique spécialité ASRS"
   location: "Chemillé-en-Anjou"
   # email: contact@rebootsys.fr
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:av.courtin@gmail.com"
+    #   url: "mailto:contact@rebootsys.fr"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://rebootsys.fr"
@@ -159,6 +159,9 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@rebootsys.fr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AlexCRN49"

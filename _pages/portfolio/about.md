@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-date: 29/07/2026
+date: 17/09/2026
 layout: single
 search: true
 permalink: /portfolio/about/
@@ -14,11 +14,10 @@ toc_label: "Sur cette page"
 
 ## <i class="fa-solid fa-address-card"></i> Présentation
 
-**Alexis COURTIN**
-Administrateur Systèmes et Réseaux Sécurisés en alternance
+**Alexis COURTIN** - Administrateur Systèmes et Réseaux Sécurisés en alternance
 
-Après une première carrière riche d'enseignements, j'ai validé la première étape de ma **reconversion professionnelle** en obtenant le **BTS SIO option SISR** en **juin 2026**.
-Dès **octobre 2026**, j'affûte mes compétences en intégrant la **Licence Informatique ASRS (Administration des Systèmes et Réseaux Sécurisés)** sur le campus ESUPEC/CNAM de CHOLET (49).
+Après une première carrière riche d'enseignements, j'ai validé la première étape de ma **reconversion professionnelle** en obtenant le **BTS SIO option SISR** en **juin 2026**.  
+Je poursuis sur ma lancée avec une **Licence Informatique spécialité ASRS (Administration des Systèmes et Réseaux Sécurisés)** sur le campus ESUPEC/CNAM, dès la rentrée d'octobre 2026.
 
 Mon parcours s'appuie sur une forte culture de la rigueur et du protocole, forgée lors de mes précédentes fonctions :
 - 12 ans au sein de la Gendarmerie Nationale notamment comme C'NTECH;
@@ -48,10 +47,10 @@ Aujourd'hui, je fais le choix de me reconvertir afin de me consacrer pleinement 
 </div>
 {% endcomment %}
 
-<!-- ### <i class="fa-solid fa-heart-pulse"></i> Mon Leitmotiv
+<!-- ### <i class="fa-solid fa-heart-pulse"></i> Mon Leitmotiv -->
 
-> "Un problème sans solution est un problème mal posé".
-> - Albert EINSTEIN -->
+
+> "Un problème sans solution est un problème mal posé." - Albert EINSTEIN
 
 ## <i class="fa-solid fa-bullseye"></i> Objectifs professionnels
 
@@ -66,7 +65,7 @@ Enrichir mes compétences en systèmes, réseaux et cybersécurité, avec pour o
     <div class="timeline-content">
       <img class="logo" src="/assets/images/logo/about/delivagri.jpeg" alt="Logo Campus ESPL">
       <div class="timeline-text">
-        <h3>SEPT. 2024 - Aujourd'hui</h3>
+        <h3>2024 - 2026</h3>
         <p>Alternant Technicien Systèmes et Réseaux au sein de l'entreprise DELIVAGRI</p>
       </div>
     </div>
@@ -100,9 +99,19 @@ Enrichir mes compétences en systèmes, réseaux et cybersécurité, avec pour o
   <li class="timeline-item">
     <div class="timeline-icon"></div>
     <div class="timeline-content">
+      <img class="logo" src="/assets/images/logo/about/cnam.png" alt="Logo CNAM">
+      <div class="timeline-text">
+        <h3>Dès Oct. 2026</h3>
+        <p>Licence Informatique spécialité Administration des Systèmes et Réseaux Sécurisés - ESUPEC - Cholet (49)</p>
+      </div>
+    </div>
+  </li>
+  <li class="timeline-item">
+    <div class="timeline-icon"></div>
+    <div class="timeline-content">
       <img class="logo" src="/assets/images/logo/about/espl.png" alt="Logo Campus ESPL">
       <div class="timeline-text">
-        <h3>2024 - Aujourd'hui</h3>
+        <h3>2024 - 2026</h3>
         <p>BTS Services Informatiques aux Organisations option Solutions d'Infrastructure, Systèmes et Réseaux - Campus ESPL - Angers (49)</p>
       </div>
     </div>
