@@ -2,7 +2,7 @@
 title: "Veille technologique"
 #date:
 layout: single
-permalink: /portfolio/watch
+permalink: /portfolio/watch/
 classes: wide
 author_profile: true
 read_time: true
