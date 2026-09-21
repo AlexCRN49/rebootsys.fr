@@ -64,28 +64,28 @@
   link: http://cyber.sites.beta.gouv.fr/actualites/ciblage-et-compromission-dentites-francaises-par-le-fsb/
   date: Mon, 13 Jul 2026 07:16:00 +0000
 - source: IT-Connect
-  title: 'UGREEN Nexode Pro : deux chargeurs avec écran intelligent, dont un que j’ai
-    pris en main'
-  link: https://www.it-connect.fr/ugreen-nexode-pro-chargeurs-ecran-intelligent-160w-300w/
-  date: Sat, 19 Sep 2026 15:50:18 +0000
+  title: 'Microsoft Teams : deux personnes pourront partager leur écran en même temps
+    dès novembre 2026'
+  link: https://www.it-connect.fr/microsoft-teams-deux-presentateurs-partage-ecran-simultane/
+  date: Mon, 21 Sep 2026 08:39:46 +0000
 - source: IT-Connect
-  title: 'Comprendre le licensing Microsoft : contrats, familles et canaux d’achats'
-  link: https://www.it-connect.fr/comprendre-le-licensing-microsoft-contrats-familles-et-canaux-achats/
-  date: Fri, 18 Sep 2026 13:45:00 +0000
+  title: L’iPhone 18 Pro signe vos photos au niveau du capteur pour prouver qu’elles
+    sont vraies
+  link: https://www.it-connect.fr/apple-reference-image-iphone-18-pro-photo-verifiee/
+  date: Mon, 21 Sep 2026 07:58:29 +0000
 - source: IT-Connect
-  title: 'Brevo : des scripts ClickFix injectés sur les sites de ses clients, avec
-    une backdoor pour WordPress'
-  link: https://www.it-connect.fr/brevo-attaque-supply-chain-clickfix-wordpress/
-  date: Fri, 18 Sep 2026 13:38:06 +0000
+  title: 'Nouvelle vente flash GoDeal24 : profitez d’Office 2024 Pro Plus et de Windows
+    11 Pro'
+  link: https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/
+  date: Mon, 21 Sep 2026 07:45:00 +0000
 - source: IT-Connect
-  title: TrueNAS lance son plugin de stockage officiel pour Proxmox VE
-  link: https://www.it-connect.fr/truenas-plugin-stockage-proxmox-ve/
-  date: Fri, 18 Sep 2026 05:27:17 +0000
+  title: 'Portainer 3.0 : priorité à Kubernetes et Portainer CE bloqué reste en 2.x'
+  link: https://www.it-connect.fr/portainer-3-0-focus-kubernetes-docker-second-plan/
+  date: Mon, 21 Sep 2026 07:21:30 +0000
 - source: IT-Connect
-  title: iTorrents.org compromis pour distribuer un malware Windows à la place des
-    films
-  link: https://www.it-connect.fr/moviereaper-malware-torrents-itorrents-the-odyssey/
-  date: Thu, 17 Sep 2026 18:16:46 +0000
+  title: 'Euro-Office : une application de bureau arrive sur Windows, Linux et macOS'
+  link: https://www.it-connect.fr/euro-office-application-bureau-windows-linux-macos/
+  date: Mon, 21 Sep 2026 05:22:48 +0000
 - source: Le Crabe Info
   title: 'Windows 11 : un zoom différent sur chaque écran, un Narrateur qui comprend
     les maths… ce qui arrive bientôt'
@@ -112,7 +112,15 @@
   link: https://lecrabeinfo.net/actualites/windows-insider-preview/windows-11-insider-preview-build-26340-9233/
   date: Mon, 07 Sep 2026 14:03:38 +0000
 - source: LeMagIT
-  title: 'Koa : Salesforce présente un modèle de raisonnement dédié à son CRM'
+  title: 30 % des salariés remplacés par l’IA devront être réembauchés, selon Gartner
+  link: https://www.lemagit.fr/actualites/366650915/30-des-salaries-remplaces-par-lIA-devront-etre-reembauches-selon-Gartner
+  date: Mon, 21 Sep 2026 07:06:00 GMT
+- source: LeMagIT
+  title: La cybersécurité bascule dans l’ère des guerres de robots
+  link: https://www.lemagit.fr/dessin/La-cybersecurite-bascule-dans-lere-des-guerres-de-robots
+  date: Sun, 20 Sep 2026 13:35:00 GMT
+- source: LeMagIT
+  title: 'Koa : Salesforce présente un modèle de raisonnement dédié à son CRM'
   link: https://www.lemagit.fr/actualites/366650720/Koa-Salesforce-presente-un-modele-de-raisonnement-dedie-a-son-CRM
   date: Fri, 18 Sep 2026 15:10:00 GMT
 - source: LeMagIT
@@ -123,12 +131,3 @@
   title: Comment SdV a migré 1 200 VM à chaud de VMware vers Proxmox
   link: https://www.lemagit.fr/etude/Comment-SdV-a-migre-1-200-VM-a-chaud-de-VMware-vers-Proxmox
   date: Fri, 18 Sep 2026 11:24:00 GMT
-- source: LeMagIT
-  title: 'Dreamforce 2026 : Salesforce déconstruit (encore) son modèle tarifaire au
-    nom de l’IA agentique'
-  link: https://www.lemagit.fr/actualites/366650715/Dreamforce-2026-Salesforce-deconstruit-encore-son-modele-tarifaire-au-nom-de-lIA-agentique
-  date: Fri, 18 Sep 2026 10:07:00 GMT
-- source: LeMagIT
-  title: L’essor des agents IA implique une reconstruction de la gouvernance (BCG)
-  link: https://www.lemagit.fr/conseil/Lessor-des-agents-IA-implique-une-reconstruction-de-la-gouvernance-BCG
-  date: Fri, 18 Sep 2026 10:05:00 GMT
