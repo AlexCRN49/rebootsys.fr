@@ -1,0 +1,133 @@
+- source: CERT-FR - Avis
+  title: Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/
+  date: Tue, 01 Sep 2026 00:00:00 +0000
+- source: CERT-FR - Avis
+  title: Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/
+  date: Tue, 08 Sep 2026 00:00:00 +0000
+- source: CERT-FR - Avis
+  title: Multiples vulnérabilités dans MISP (14 septembre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1170/
+  date: Mon, 14 Sep 2026 00:00:00 +0000
+- source: CERT-FR - Avis
+  title: Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/
+  date: Mon, 14 Sep 2026 00:00:00 +0000
+- source: CERT-FR - Avis
+  title: Multiples vulnérabilités dans Python (14 septembre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1167/
+  date: Mon, 14 Sep 2026 00:00:00 +0000
+- source: CERT-FR - Alertes
+  title: '[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (23 octobre
+    2023)'
+  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/
+  date: Mon, 23 Oct 2023 00:00:00 +0000
+- source: CERT-FR - Alertes
+  title: '[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure
+    Gateways (11 janvier 2024)'
+  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/
+  date: Thu, 11 Jan 2024 00:00:00 +0000
+- source: CERT-FR - Alertes
+  title: '[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)'
+  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/
+  date: Fri, 12 Jan 2024 00:00:00 +0000
+- source: CERT-FR - Alertes
+  title: '[MàJ] Incident affectant les solutions AnyDesk (05 février 2024)'
+  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/
+  date: Mon, 05 Feb 2024 00:00:00 +0000
+- source: CERT-FR - Alertes
+  title: '[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)'
+  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/
+  date: Fri, 09 Feb 2024 00:00:00 +0000
+- source: ANSSI - Actualités
+  title: 'Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction
+    dédiée aux services de l’État'
+  link: http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/
+  date: Mon, 07 Sep 2026 13:45:00 +0000
+- source: ANSSI - Actualités
+  title: Transition post-quantique, l’ANSSI et ses partenaires du G7 publient un appel
+    à action
+  link: http://cyber.sites.beta.gouv.fr/actualites/transition-post-quantique-lanssi-et-ses-partenaires-du-g7-publient-un-appel-a-action/
+  date: Thu, 03 Sep 2026 07:19:00 +0000
+- source: ANSSI - Actualités
+  title: L’ANSSI renforce son engagement dans le Pacifique aux côtés du réseau PaCSON
+  link: http://cyber.sites.beta.gouv.fr/actualites/lanssi-renforce-son-engagement-dans-le-pacifique-aux-cotes-du-reseau-pacson/
+  date: Wed, 05 Aug 2026 09:00:00 +0000
+- source: ANSSI - Actualités
+  title: 'Exigences du CRA : processus de notification pour les organismes notifiés'
+  link: http://cyber.sites.beta.gouv.fr/actualites/exigences-du-cra-processus-de-notification-pour-les-organismes-notifies/
+  date: Tue, 21 Jul 2026 10:00:00 +0000
+- source: ANSSI - Actualités
+  title: Ciblage et compromission d’entités françaises par le Centre du service fédéral
+    de sécurité de la fédération de Russie (FSB)
+  link: http://cyber.sites.beta.gouv.fr/actualites/ciblage-et-compromission-dentites-francaises-par-le-fsb/
+  date: Mon, 13 Jul 2026 07:16:00 +0000
+- source: IT-Connect
+  title: 'Microsoft Teams : deux personnes pourront partager leur écran en même temps
+    dès novembre 2026'
+  link: https://www.it-connect.fr/microsoft-teams-deux-presentateurs-partage-ecran-simultane/
+  date: Mon, 21 Sep 2026 08:39:46 +0000
+- source: IT-Connect
+  title: L’iPhone 18 Pro signe vos photos au niveau du capteur pour prouver qu’elles
+    sont vraies
+  link: https://www.it-connect.fr/apple-reference-image-iphone-18-pro-photo-verifiee/
+  date: Mon, 21 Sep 2026 07:58:29 +0000
+- source: IT-Connect
+  title: 'Nouvelle vente flash GoDeal24 : profitez d’Office 2024 Pro Plus et de Windows
+    11 Pro'
+  link: https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/
+  date: Mon, 21 Sep 2026 07:45:00 +0000
+- source: IT-Connect
+  title: 'Portainer 3.0 : priorité à Kubernetes et Portainer CE bloqué reste en 2.x'
+  link: https://www.it-connect.fr/portainer-3-0-focus-kubernetes-docker-second-plan/
+  date: Mon, 21 Sep 2026 07:21:30 +0000
+- source: IT-Connect
+  title: 'Euro-Office : une application de bureau arrive sur Windows, Linux et macOS'
+  link: https://www.it-connect.fr/euro-office-application-bureau-windows-linux-macos/
+  date: Mon, 21 Sep 2026 05:22:48 +0000
+- source: Le Crabe Info
+  title: 'Windows 11 : un zoom différent sur chaque écran, un Narrateur qui comprend
+    les maths… ce qui arrive bientôt'
+  link: https://lecrabeinfo.net/actualites/windows-insider-preview/windows-11-insider-preview-build-26340-9354/
+  date: Fri, 18 Sep 2026 10:29:10 +0000
+- source: Le Crabe Info
+  title: 'Windows 11 KB5129195 : Microsoft publie une mise à jour d’urgence après
+    les bugs du Patch Tuesday'
+  link: https://lecrabeinfo.net/actualites/windows-11-kb5129195-mise-a-jour-urgence/
+  date: Tue, 15 Sep 2026 09:05:10 +0000
+- source: Le Crabe Info
+  title: 'Windows 11 KB5124008 : Microsoft confirme un bug qui peut couper le son
+    de votre PC'
+  link: https://lecrabeinfo.net/actualites/windows-11-kb5124008-bug-son/
+  date: Mon, 14 Sep 2026 08:00:29 +0000
+- source: Le Crabe Info
+  title: 'Windows 11 KB5124008 : la mise à jour de septembre 2026 est disponible,
+    voici tout ce qu’elle apporte'
+  link: https://lecrabeinfo.net/mises-a-jour-windows/windows-11-kb5124008-septembre-2026/
+  date: Tue, 08 Sep 2026 17:25:26 +0000
+- source: Le Crabe Info
+  title: 'Windows 11 : une nouvelle fenêtre « Exécution automatique », des applications
+    qui s’ouvrent toujours agrandies… ce qui arrive bientôt'
+  link: https://lecrabeinfo.net/actualites/windows-insider-preview/windows-11-insider-preview-build-26340-9233/
+  date: Mon, 07 Sep 2026 14:03:38 +0000
+- source: LeMagIT
+  title: 30 % des salariés remplacés par l’IA devront être réembauchés, selon Gartner
+  link: https://www.lemagit.fr/actualites/366650915/30-des-salaries-remplaces-par-lIA-devront-etre-reembauches-selon-Gartner
+  date: Mon, 21 Sep 2026 07:06:00 GMT
+- source: LeMagIT
+  title: La cybersécurité bascule dans l’ère des guerres de robots
+  link: https://www.lemagit.fr/dessin/La-cybersecurite-bascule-dans-lere-des-guerres-de-robots
+  date: Sun, 20 Sep 2026 13:35:00 GMT
+- source: LeMagIT
+  title: 'Koa : Salesforce présente un modèle de raisonnement dédié à son CRM'
+  link: https://www.lemagit.fr/actualites/366650720/Koa-Salesforce-presente-un-modele-de-raisonnement-dedie-a-son-CRM
+  date: Fri, 18 Sep 2026 15:10:00 GMT
+- source: LeMagIT
+  title: 'Stockage : choisir le bon protocole d’accès'
+  link: https://www.lemagit.fr/conseil/Stockage-choisir-le-bon-protocole-dacces
+  date: Fri, 18 Sep 2026 11:28:00 GMT
+- source: LeMagIT
+  title: Comment SdV a migré 1 200 VM à chaud de VMware vers Proxmox
+  link: https://www.lemagit.fr/etude/Comment-SdV-a-migre-1-200-VM-a-chaud-de-VMware-vers-Proxmox
+  date: Fri, 18 Sep 2026 11:24:00 GMT
