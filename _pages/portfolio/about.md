@@ -23,33 +23,6 @@ Mon parcours s'appuie sur une forte culture de la rigueur et du protocole, forg�
 - 12 ans au sein de la Gendarmerie Nationale notamment comme C'NTECH;
 - 6 ans en tant que Technicien de laboratoire en analyses biologiques (BTS AB / Bac S).
 
-{% comment %}
-<div style="border:1px solid #ccc; border-radius:8px; margin-bottom:1rem; overflow:hidden;">
-
-  <details>
-    <summary style="background-color:#41b0f2; color:white; padding:0.5rem 1rem; font-weight:bold; cursor:pointer;">
-      <i class="fa-solid fa-compass"></i> Mais pourquoi cette reconversion ?
-    </summary>
-
-    <div style="padding:1rem; text-align:justify;">
-Dès l'adolescence, j'ai découvert Internet et l'univers de l'informatique, ce qui a rapidement capté mon intérêt. Autodidacte, j'ai appris à utiliser seul un ordinateur public, jusqu'à acquérir mon premier PC. Curieux, je l'explorais régulièrement, le démontais, le remontais… et il fonctionnait toujours parfaitement.<br>
-<br>
-Issu d'une famille évoluant principalement dans le secteur médical, et en raison d'une certaine réticence de mon entourage vis-à-vis de l'informatique, je n'ai pas suivi d'études dans ce domaine à l'époque. Je me suis orienté vers le paramédical et j'ai débuté ma vie professionnelle comme technicien de laboratoire en analyses biologiques.<br>
-<br>
-Mon attrait pour la résolution de problèmes, ma rigueur et ma curiosité m'ont ensuite conduit à intégrer la Gendarmerie nationale en tant qu'enquêteur. Grâce à mes capacités d'analyse, de recherche, de croisement d'informations et de synthèse, ainsi qu'à ma persévérance, j'ai pu me spécialiser dans les technologies numériques et m'initier à la cybersécurité.<br>
-<br>
-Ce parcours m'a permis de renforcer ma passion pour l'informatique, en particulier à travers l'administration et l'analyse technique de systèmes et de supports numériques.<br>
-Il a également aiguisé mon attrait pour la cybersécurité, que j'ai pu mettre en pratique à travers des actions de sensibilisation menées auprès d'entreprises, de collectivités et du grand public.<br>
-<br>
-Aujourd'hui, je fais le choix de me reconvertir afin de me consacrer pleinement à l'informatique, dans l'objectif d'approfondir et de structurer mes compétences au sein d'un cadre professionnel dédié.<br>
-    </div>
-  </details>
-</div>
-{% endcomment %}
-
-<!-- ### <i class="fa-solid fa-heart-pulse"></i> Mon Leitmotiv -->
-
-
 > "Un problème sans solution est un problème mal posé." - Albert EINSTEIN
 
 ## <i class="fa-solid fa-bullseye"></i> Objectifs professionnels
@@ -147,5 +120,5 @@ Retrouvez-moi sur :
 
 - <i class="fa-solid fa-image-portrait"></i> [Mon CV](/assets/docs/cv.pdf) 
 - <i class="fa-solid fa-book-bookmark"></i> [Formation](/portfolio/training/)  
-- <i class="fa-solid fa-briefcase"></i> [Entreprise](/portfolio/company/)  
-- <i class="fa-solid fa-diagram-project"></i> [Réalisations](/portfolio/realisations/)
+- <i class="fa-solid fa-briefcase"></i> [Alternances](/portfolio/apprenticeship/)  
+- <i class="fa-solid fa-diagram-project"></i> [Réalisations](/portfolio/achievements/)

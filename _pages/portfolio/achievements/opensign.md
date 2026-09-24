@@ -2,7 +2,7 @@
 title: "Mise en œuvre d'une infrastructure de signature électronique auto-hébergée sous Docker"
 layout: single
 date: 2025-08-11
-permalink: /portfolio/realisations/opensign/
+permalink: /portfolio/achievements/opensign/
 classes: wide
 read_time: true
 show_date: false

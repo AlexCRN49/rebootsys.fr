@@ -2,7 +2,7 @@
 title: "Mise en place d'une politique de gestion et de sécurisation des mots de passe"
 layout: single
 date: 2025-01-14
-permalink: /portfolio/realisations/authentification/
+permalink: /portfolio/achievements/authentification/
 classes: wide
 read_time: true
 show_date: false

@@ -5,6 +5,8 @@ main:
     url: "/portfolio/training/"
   - title: "Alternances"
     url: "/portfolio/apprenticeship/"
+  - title: "Réalisations"
+    url: "/portfolio/achievements/"
   - title: "Projets"
     url: "/portfolio/projects/"
  # - title: "Compétences"

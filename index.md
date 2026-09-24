@@ -76,15 +76,12 @@ sidebar:
 }
 
 .card-container {
-  display: flex;
-  flex-wrap: nowrap;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
-  justify-content: space-between;
 }
 
 .card {
-  flex: 0 0 30%;
-  max-width: 30%;
   text-align: center;
   position: relative;
 }
@@ -99,7 +96,7 @@ sidebar:
   padding: 0.5rem 0.9rem;
   border-radius: 6px;
   font-size: 0.85rem;
-  width: 300px;
+  width: 260px;
   text-align: center;
   line-height: 1.3;
   opacity: 0;
@@ -116,7 +113,9 @@ sidebar:
 }
 
 .card img {
-  max-width: 100%;
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   transition: transform 0.2s ease;
@@ -126,14 +125,16 @@ sidebar:
   transform: scale(1.03);
 }
 
-/* Responsive : les cartes passent en colonne sur mobile */
+/* Responsive : 2 colonnes en tablette, 1 colonne en mobile */
 @media (max-width: 900px) {
   .card-container {
-    flex-wrap: wrap;
+    grid-template-columns: repeat(2, 1fr);
   }
-  .card {
-    flex: 0 0 100%;
-    max-width: 100%;
+}
+
+@media (max-width: 500px) {
+  .card-container {
+    grid-template-columns: 1fr;
   }
 }
 </style>
@@ -151,28 +152,28 @@ sidebar:
     </div>
 
     <div class="card">
-      <a href="/portfolio/company/">
-        <img src="/assets/images/picture/home/company.jpg" alt="Entreprise">
+      <a href="/portfolio/apprenticeship/">
+        <img src="/assets/images/picture/home/apprenticeship.jpg" alt="Alternances">
       </a>
-      <h3>Alternance</h3>
-      <span class="tooltip-text">Technicien Systèmes et Réseaux chez Delivagri (BTS SIO)</span>
+      <h3>Alternances</h3>
+      <span class="tooltip-text">Delivagri (BTS SIO)<br>ADEMI PESAGE (Licence ASRS)</span>
     </div>
 
     <div class="card">
-      <a href="/portfolio/realisations/">
-        <img src="/assets/images/picture/home/skills.jpg" alt="Réalisations">
+      <a href="/portfolio/achievements/">
+        <img src="/assets/images/picture/home/achievements.jpg" alt="Réalisations">
       </a>
       <h3>Réalisations</h3>
-      <span class="tooltip-text">Provisionnement Proxmox via Ansible<br><br>Cluster de base de données en réplication asynchrone maître-esclave via MaxScale</span>
+      <span class="tooltip-text">Ce que j'ai fait en alternance</span>
     </div>
 
-    <!-- <div class="card">
-      <a href="/portfolio/skills/">
-        <img src="/assets/images/picture/home/skills.jpg" alt="Compétences">
+    <div class="card">
+      <a href="/portfolio/projects/">
+        <img src="/assets/images/picture/home/projects.jpg" alt="Projets">
       </a>
-      <h3>Compétences</h3>
-      <p>Mes compétences acquises.</p>
-    </div> -->
+      <h3>Projets</h3>
+      <span class="tooltip-text">Ce que j'ai mené en autonomie</span>
+    </div>
 
   </div>
 

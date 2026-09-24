@@ -1,7 +1,7 @@
 ---
 title: "Mes réalisations"
 layout: single
-date: 25/08/2025
+date: 20/09/2026
 permalink: /portfolio/realisations/
 classes: wide
 author_profile: true
@@ -11,9 +11,7 @@ toc: true
 toc_label: "Sur cette page"
 ---
 
-EN TRAVAUX
-
-<!-- ## <i class="fa-solid fa-bullseye"></i> Objectif de l'épreuve E5
+## <i class="fa-solid fa-bullseye"></i> Objectif de l'épreuve E5
 
 L’épreuve E5 du BTS SIO, option SISR, a pour objectif principal d’évaluer l’acquisition des compétences du bloc « Administration des systèmes et des réseaux ».  
 
@@ -116,7 +114,7 @@ L’épreuve E5 du BTS SIO, option SISR, a pour objectif principal d’évaluer 
   </details>
 </div>
 
-<!-- Conteneur 2 -->
+Conteneur 2 -->
 <div style="border:1px solid #ccc; border-radius:8px; margin-bottom:1rem; overflow:hidden;">
   <!-- Header bleu avec bouton de réduction -->
   <details>
@@ -131,7 +129,7 @@ L’épreuve E5 du BTS SIO, option SISR, a pour objectif principal d’évaluer 
       <img src="/assets/images/picture/realisations/opensign.png" alt="Logo OpenSign" style="max-width:200px; margin-bottom:1rem;">
     </div>
 
-    <!-- Contenu -->
+    <!-- Contenu
     <div style="padding:1rem; text-align:justify;">
       <strong>Description :</strong><br>
       Mise en place d'un serveur OpenSign.<br><br>
@@ -628,4 +626,4 @@ L’épreuve E5 du BTS SIO, option SISR, a pour objectif principal d’évaluer 
       </p>
     </div>
   </details>
-</div> -->
+</div>

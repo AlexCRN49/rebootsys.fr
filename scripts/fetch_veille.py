@@ -17,8 +17,10 @@ FEEDS = [
     {"name": "CERT-FR - Alertes", "url": "https://www.cert.ssi.gouv.fr/alerte/feed/"},
     {"name": "ANSSI - Actualités", "url": "https://cyber.gouv.fr/actualites/rss/"},
     {"name": "IT-Connect", "url": "https://www.it-connect.fr/feed/"},
-    {"name": "Le Crabe Info", "url": "https://lecrabeinfo.net/feed/"},
-    {"name": "LeMagIT", "url": "https://www.lemagit.fr/rss/ContentSyndication.xml"},
+    {"name": "Korben", "url": "https://korben.info/feed"},
+    {"name": "ZDnet", "url": "https://www.zdnet.fr/feeds/rss/actualites/informatique/"},
+    {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/security/"},
+    {"name": "TheHackernews", "url": "https://feeds.feedburner.com/TheHackersNews"},
 ]
 
 MAX_ITEMS_PER_FEED = 5

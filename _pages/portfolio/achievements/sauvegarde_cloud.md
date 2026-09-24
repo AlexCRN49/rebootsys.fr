@@ -2,7 +2,7 @@
 title: "Mise en place d'un dispositif de redondance locale pour les données stockées en environnement Cloud"
 layout: single
 date: 2025-03-10
-permalink: /portfolio/realisations/synchronisation/
+permalink: /portfolio/achievements/synchronisation/
 classes: wide
 read_time: true
 show_date: false

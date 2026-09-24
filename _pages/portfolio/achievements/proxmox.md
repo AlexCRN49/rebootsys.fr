@@ -2,7 +2,7 @@
 title: "Mise en place d'un cluster de virtualisation Proxmox et d'un gestionnaire de sauvegarde automatisé"
 layout: single
 date: 2024-11-12
-permalink: /portfolio/realisations/proxmox/
+permalink: /portfolio/achievements/proxmox/
 classes: wide
 read_time: true
 show_date: false
