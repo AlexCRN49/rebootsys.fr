@@ -1,23 +1,23 @@
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-429/
-  date: Tue, 10 Sep 2019 00:00:00 +0000
+  title: Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/
+  date: Fri, 02 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans Roundcube (26 mai 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/
-  date: Tue, 26 May 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans les produits IBM (02 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1256/
+  date: Fri, 02 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans Zabbix Agent (24 septembre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/
-  date: Thu, 24 Sep 2026 00:00:00 +0000
+  title: Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
+  date: Fri, 02 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans PHP (24 septembre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/
-  date: Thu, 24 Sep 2026 00:00:00 +0000
+  title: Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/
+  date: Mon, 05 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/
-  date: Fri, 25 Sep 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Google Chrome (05 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/
+  date: Mon, 05 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Alertes
   title: Vulnérabilité dans Apple Mac OS X (24 juillet 2015)
   link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/
@@ -40,6 +40,10 @@
   link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/
   date: Thu, 15 Feb 2024 00:00:00 +0000
 - source: ANSSI - Actualités
+  title: 'ECSC 2026 : la Team France à Bochum'
+  link: http://cyber.sites.beta.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/
+  date: Mon, 12 Oct 2026 07:03:00 +0000
+- source: ANSSI - Actualités
   title: Résultat de l'appel à manifestation d‘intérêt – Sécurité des écosystèmes
     de cybersécurité
   link: http://cyber.sites.beta.gouv.fr/actualites/resultat-ami-sec/
@@ -59,118 +63,116 @@
     dédiée aux services de l’État'
   link: http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/
   date: Mon, 07 Sep 2026 13:45:00 +0000
-- source: ANSSI - Actualités
-  title: Transition post-quantique, l’ANSSI et ses partenaires du G7 publient un appel
-    à action
-  link: http://cyber.sites.beta.gouv.fr/actualites/transition-post-quantique-lanssi-et-ses-partenaires-du-g7-publient-un-appel-a-action/
-  date: Thu, 03 Sep 2026 07:19:00 +0000
 - source: IT-Connect
-  title: 'Word : un bug envoyait les PDF destinés à SharePoint dans un dossier de
-    cache en local'
-  link: https://www.it-connect.fr/word-pdf-sharepoint-dossier-cache-content-mso/
-  date: Mon, 05 Oct 2026 07:21:18 +0000
+  title: 'Super U, Intermarché : des pirates font chauffer les congélateurs à 50 °C,
+    des rayons entiers à la poubelle'
+  link: https://www.it-connect.fr/cyberattaque-supermarches-froid-danfoss/
+  date: Mon, 12 Oct 2026 13:03:09 +0000
 - source: IT-Connect
-  title: Le compte X officiel de Microsoft piraté pour promouvoir un token crypto
-    à l’effigie de Clippy
-  link: https://www.it-connect.fr/compte-x-microsoft-pirate-clippy-crypto/
-  date: Mon, 05 Oct 2026 06:46:36 +0000
+  title: Une machine à café connectée envoie plus de 1 To de données en 10 jours sur
+    le Wi-Fi
+  link: https://www.it-connect.fr/machine-cafe-keurig-1-to-donnees-10-jours/
+  date: Mon, 12 Oct 2026 08:05:30 +0000
 - source: IT-Connect
-  title: 'Je suis passé de Windows à macOS depuis 6 mois : voici mon retour d’expérience'
-  link: https://www.it-connect.fr/windows-vers-mac-bilan-mon-experience/
-  date: Sat, 03 Oct 2026 06:00:00 +0000
+  title: 'Nouvelle vente flash GoDeal24 : Office 2024 Pro Plus à 22.99€ et Windows
+    11 Pro à 12.25€'
+  link: https://www.it-connect.fr/bon-plan-les-licences-office-2021-et-windows-11-en-promotion/
+  date: Mon, 12 Oct 2026 08:02:23 +0000
 - source: IT-Connect
-  title: 'Installation et utilisation de Claude Code : premiers pas'
-  link: https://www.it-connect.fr/tuto-installation-et-utilisation-de-claude-code/
-  date: Fri, 02 Oct 2026 07:45:00 +0000
+  title: 'Windows Update : certains PC et serveurs seront privés de mises à jour en
+    2027 à cause de certificats expirés'
+  link: https://www.it-connect.fr/windows-update-certificats-expiration-2027/
+  date: Mon, 12 Oct 2026 07:25:42 +0000
 - source: IT-Connect
-  title: 'GLPI 11.0.11 et GLPI 10.0.28 : 8 failles patchées et la fin annoncée de
-    GLPI 10'
-  link: https://www.it-connect.fr/glpi-11-0-10-10-0-28-failles-fin-glpi-10/
-  date: Fri, 02 Oct 2026 05:16:56 +0000
+  title: 'Microsoft 365 Famille et Premium : OneDrive passe de 1 To par personne à
+    2 To partagés'
+  link: https://www.it-connect.fr/microsoft-365-famille-premium-onedrive-2-to-partages/
+  date: Mon, 12 Oct 2026 07:04:19 +0000
 - source: Korben
-  title: Test du Narwal Freo 20, le robot laveur qui s'entretient tout seul
-  link: https://korben.info/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 05 Oct 2026 11:22:28 +0200
+  title: ONLYOFFICE 10 - L'IA partout, mais seulement si vous la voulez
+  link: https://korben.info/onlyoffice-10-ia-applications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Mon, 12 Oct 2026 15:52:46 +0200
 - source: Korben
-  title: XPSemu - Halo 2, Forza et Fable sur PS5
-  link: https://korben.info/halo-2-ps5-jailbreake-emulateur-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 05 Oct 2026 10:52:31 +0200
+  title: Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP
+  link: https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Mon, 12 Oct 2026 12:06:20 +0200
 - source: Korben
-  title: Quick Tunnels - Votre projet localhost sur le web avec invitation
-  link: https://korben.info/cloudflare-quick-tunnels-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 05 Oct 2026 09:40:07 +0200
+  title: Carafe - Pour lancer vos jeux PC directement sur la Switch
+  link: https://korben.info/carafe-jeux-windows-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Mon, 12 Oct 2026 09:33:42 +0200
 - source: Korben
-  title: Highball - La relève de Whisky pour jouer sur Mac
-  link: https://korben.info/highball-jeux-windows-mac-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 05 Oct 2026 08:51:38 +0200
+  title: Windows 11 - Le lien du compte local serait déjà patché
+  link: https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Mon, 12 Oct 2026 09:15:51 +0200
 - source: Korben
-  title: Mulderland - Pour pimper vos jeux PC
-  link: https://korben.info/mulderland-packs-vieux-jeux-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 05 Oct 2026 07:22:58 +0200
+  title: Ventoy - La clé de secours du Steam Deck rejoint vos ISO
+  link: https://korben.info/ventoy-linux-steamos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Fri, 09 Oct 2026 15:59:27 +0200
 - source: ZDnet
-  title: Schneider Electric rachète PTC pour 20 milliards d'euros
-  link: https://www.zdnet.fr/actualites/schneider-electric-rachete-ptc-pour-20-milliards-deuros-505132.htm#xtor=RSS-1
-  date: Mon, 5 Oct 2026 04:10:57 GMT
+  title: La nouvelle serrure connectée de Ring dispose d'un système de secours manuel
+    qui vous évite de vous retrouver enfermé à l'extérieur – voici comment cela fonctionne
+  link: https://www.zdnet.fr/actualites/la-nouvelle-serrure-connectee-de-ring-dispose-dun-systeme-de-secours-manuel-qui-vous-evite-de-vous-retrouver-enferme-a-lexterieur-voici-comment-cela-fonctionne-505582.htm#xtor=RSS-1
+  date: Mon, 12 Oct 2026 02:10:22 GMT
 - source: ZDnet
-  title: Voici tout ce qu'il faut savoir sur la nouvelle gamme Samsung Galaxy Tab
-    S12
-  link: https://www.zdnet.fr/actualites/voici-tout-ce-quil-faut-savoir-sur-la-nouvelle-gamme-samsung-galaxy-tab-s12-505127.htm#xtor=RSS-1
-  date: Mon, 5 Oct 2026 04:10:24 GMT
+  title: 4 raisons pour lesquelles les nouvelles tablettes Alexa d'Amazon surpassent
+    la gamme Fire – à commencer par le Google Play
+  link: https://www.zdnet.fr/actualites/4-raisons-pour-lesquelles-les-nouvelles-tablettes-alexa-damazon-surpassent-la-gamme-fire-a-commencer-par-le-google-play-505579.htm#xtor=RSS-1
+  date: Mon, 12 Oct 2026 02:10:09 GMT
 - source: ZDnet
-  title: 'Gemini plus cher : le modèle Pro devient payant et le gratuit rétrogradé
-    à Flash-Lite'
-  link: https://www.zdnet.fr/actualites/gemini-plus-cher-le-modele-pro-devient-payant-et-le-gratuit-retrograde-a-flash-lite-505122.htm#xtor=RSS-1
-  date: Mon, 5 Oct 2026 03:10:16 GMT
+  title: « J’utilise l’IA pour faire ce que je ne sais pas bien faire » assume Linus
+    Torvalds
+  link: https://www.zdnet.fr/actualites/jutilise-lia-pour-faire-ce-que-je-ne-sais-pas-bien-faire-assume-linus-torvalds-505575.htm#xtor=RSS-1
+  date: Mon, 12 Oct 2026 02:10:09 GMT
 - source: ZDnet
-  title: 'Énième démission chez OpenAI : la dénonciation de la culture du risque sacrifiée
-    sur l''autel de la vitesse'
-  link: https://www.zdnet.fr/actualites/enieme-demission-chez-openai-la-denonciation-de-la-culture-du-risque-sacrifiee-sur-lautel-de-la-vitesse-505098.htm#xtor=RSS-1
-  date: Mon, 5 Oct 2026 11:10:14 GMT
+  title: 47 millions d’euros pour du cloud dédié à l’IA sur les données sensibles
+  link: https://www.zdnet.fr/actualites/47-millions-deuros-pour-du-cloud-dedie-a-lia-sur-les-donnees-sensibles-505564.htm#xtor=RSS-1
+  date: Mon, 12 Oct 2026 02:10:12 GMT
 - source: ZDnet
-  title: 'ZDNET Morning 05/10/2026 : L''IA Gen surcharge les collaborateurs français,
-    Shadow IT et fuites de données, Cession de 400 brevets de Sony XR'
-  link: https://www.zdnet.fr/actualites/zdnet-morning-05-10-2026-lia-gen-surcharge-les-collaborateurs-francais-shadow-it-et-fuites-de-donnees-cession-de-400-brevets-de-sony-xr-505090.htm#xtor=RSS-1
-  date: Mon, 5 Oct 2026 10:10:23 GMT
+  title: Les nouveaux PC Microsoft équipés de cartes graphiques Nvidia sont géniaux
+    pour les utilisateurs très exigeants – mais je vais attendre l'AI PC 3.0
+  link: https://www.zdnet.fr/actualites/les-nouveaux-pc-microsoft-equipes-de-cartes-graphiques-nvidia-sont-geniaux-pour-les-utilisateurs-tres-exigeants-mais-je-vais-attendre-lai-pc-3-0-505571.htm#xtor=RSS-1
+  date: Mon, 12 Oct 2026 02:10:38 GMT
 - source: BleepingComputer
-  title: 'tenfold CE: Our free Identity Governance tool just got 2 new features'
-  link: https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/
-  date: Mon, 05 Oct 2026 09:33:42 -0400
+  title: 'Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption'
+  link: https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/
+  date: Mon, 12 Oct 2026 10:00:10 -0400
 - source: BleepingComputer
-  title: Alleged dev of Ploutus ATM malware appears in US court after arrest
-  link: https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/
-  date: Mon, 05 Oct 2026 09:01:45 -0400
+  title: Retail giant Ahold Delhaize takes systems offline after cyberattack
+  link: https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/
+  date: Mon, 12 Oct 2026 09:51:07 -0400
 - source: BleepingComputer
-  title: Google halts open-source bug bounty program amid AI spam surge
-  link: https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/
-  date: Mon, 05 Oct 2026 04:27:46 -0400
+  title: GitLab warns of max severity code execution vulnerability
+  link: https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/
+  date: Mon, 12 Oct 2026 09:09:09 -0400
 - source: BleepingComputer
-  title: Citrix patches NetScaler SAML zero-day exploited in attacks
-  link: https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/
-  date: Sun, 04 Oct 2026 17:58:01 -0400
+  title: Nippon Columbia malware incident exposes 8.6 million karaoke fan records
+  link: https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/
+  date: Sun, 11 Oct 2026 10:23:46 -0400
 - source: BleepingComputer
-  title: ShinyHunters hacker reportedly detained in Jordan, aiding FBI
-  link: https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/
-  date: Sat, 03 Oct 2026 15:09:38 -0400
+  title: Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+  link: https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/
+  date: Sat, 10 Oct 2026 11:07:54 -0400
 - source: TheHackernews
-  title: The Credential Layer Is Expanding Faster Than Security Teams Can See It
-  link: https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html
-  date: Mon, 05 Oct 2026 17:25:00 +0530
+  title: 'Bring Your Own Agent: Your Employees'' Assistants Are Already Logged In'
+  link: https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
+  date: Mon, 12 Oct 2026 17:25:00 +0530
 - source: TheHackernews
-  title: Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based
-    C2
-  link: https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html
-  date: Mon, 05 Oct 2026 17:16:25 +0530
+  title: Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid
+    Fund Theft Reports
+  link: https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html
+  date: Mon, 12 Oct 2026 16:51:48 +0530
 - source: TheHackernews
-  title: Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access
-  link: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
-  date: Mon, 05 Oct 2026 16:08:50 +0530
+  title: Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After
+    Patch
+  link: https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+  date: Mon, 12 Oct 2026 16:06:56 +0530
 - source: TheHackernews
-  title: Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and
+  title: Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated
     RCE
-  link: https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
-  date: Mon, 05 Oct 2026 13:39:23 +0530
+  link: https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+  date: Mon, 12 Oct 2026 14:32:14 +0530
 - source: TheHackernews
-  title: New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments
-    Offline
-  link: https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
-  date: Mon, 05 Oct 2026 12:10:19 +0530
+  title: CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian
+    Records
+  link: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+  date: Mon, 12 Oct 2026 12:56:12 +0530
