@@ -1,23 +1,23 @@
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans Mozilla Firefox (13 octobre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1297/
-  date: Tue, 13 Oct 2026 00:00:00 +0000
+  title: Vulnérabilité dans Mattermost Server (19 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/
+  date: Mon, 19 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits Siemens (13 octobre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1298/
-  date: Tue, 13 Oct 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/
+  date: Mon, 19 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Vulnérabilité dans Schneider Electric Harmony (13 octobre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1299/
-  date: Tue, 13 Oct 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/
+  date: Mon, 19 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits SAP (13 octobre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1300/
-  date: Tue, 13 Oct 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans les produits F5 (19 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/
+  date: Mon, 19 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits Adobe (14 octobre 2026)
-  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1301/
-  date: Wed, 14 Oct 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)
+  link: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/
+  date: Mon, 19 Oct 2026 00:00:00 +0000
 - source: CERT-FR - Alertes
   title: Vulnérabilité dans Apple Mac OS X (24 juillet 2015)
   link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/
@@ -27,10 +27,6 @@
   link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/
   date: Fri, 09 Feb 2024 00:00:00 +0000
 - source: CERT-FR - Alertes
-  title: '[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)'
-  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/
-  date: Thu, 15 Feb 2024 00:00:00 +0000
-- source: CERT-FR - Alertes
   title: '[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)'
   link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/
   date: Fri, 12 Apr 2024 00:00:00 +0000
@@ -38,141 +34,141 @@
   title: Multiples vulnérabilités dans les produits Cisco (25 avril 2024)
   link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/
   date: Thu, 25 Apr 2024 00:00:00 +0000
+- source: CERT-FR - Alertes
+  title: '[MàJ] Vulnérabilité dans les produits Check Point  (30 mai 2024)'
+  link: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008/
+  date: Thu, 30 May 2024 00:00:00 +0000
 - source: ANSSI - Actualités
   title: 'ECSC 2026 : la Team France à Bochum'
-  link: http://cyber.sites.beta.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/
+  link: https://cyber.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/
   date: Mon, 12 Oct 2026 07:03:00 +0000
 - source: ANSSI - Actualités
   title: Résultat de l'appel à manifestation d‘intérêt – Sécurité des écosystèmes
     de cybersécurité
-  link: http://cyber.sites.beta.gouv.fr/actualites/resultat-ami-sec/
+  link: https://cyber.gouv.fr/actualites/resultat-ami-sec/
   date: Wed, 30 Sep 2026 10:00:00 +0000
 - source: ANSSI - Actualités
   title: L’ANSSI publie le rapport d’incident sur les cyberattaques ayant touché la
     DGFiP
-  link: http://cyber.sites.beta.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/
+  link: https://cyber.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/
   date: Tue, 29 Sep 2026 10:00:00 +0000
 - source: ANSSI - Actualités
   title: 'Cyber Résilience Act : l''ANSSI, l''ANFR et la DGE accompagnent les fabricants
     dans la conformité des produits numériques'
-  link: http://cyber.sites.beta.gouv.fr/actualites/cra-lanssi-lanfr-et-la-dge-accompagnent-les-fabricants-dans-la-conformite-des-produits-numeriques/
+  link: https://cyber.gouv.fr/actualites/cra-lanssi-lanfr-et-la-dge-accompagnent-les-fabricants-dans-la-conformite-des-produits-numeriques/
   date: Wed, 23 Sep 2026 10:41:00 +0000
 - source: ANSSI - Actualités
   title: 'Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction
     dédiée aux services de l’État'
-  link: http://cyber.sites.beta.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/
+  link: https://cyber.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/
   date: Mon, 07 Sep 2026 13:45:00 +0000
 - source: IT-Connect
-  title: 'Nouvelle vente flash GoDeal24 : complétez votre PC avec Office 2024 Pro
-    Plus à 22.99€ et Windows 11 Pro à 12.25€'
-  link: https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/
-  date: Mon, 19 Oct 2026 09:26:28 +0000
+  title: 'WordCraft, GridCraft, DeckCraft : après Adobe, Word, Excel et PowerPoint
+    réécrits en Rust avec l’IA'
+  link: https://www.it-connect.fr/wordcraft-gridcraft-deckcraft-suite-office-rust-claude/
+  date: Mon, 26 Oct 2026 12:04:51 +0000
 - source: IT-Connect
-  title: 'Nouveautés Proton Pass : dossiers, contrôle du remplissage automatique,
-    mots de passe compromis…'
-  link: https://www.it-connect.fr/proton-pass-dossiers-correspondance-url-mots-de-passe-compromis/
-  date: Mon, 19 Oct 2026 08:05:11 +0000
+  title: 'Tailworm : 11 failles non corrigées dans Tailscale, dont un accès root via
+    Tailscale SSH'
+  link: https://www.it-connect.fr/tailworm-failles-tailscale-ssh-root-non-corrigees/
+  date: Mon, 26 Oct 2026 10:09:21 +0000
 - source: IT-Connect
-  title: 'Ni mot de passe, ni MFA : comment des centaines de tenants Microsoft 365
-    ont été ouverts via ConnectWise'
-  link: https://www.it-connect.fr/connectwise-cloud-backup-skykick-tenants-microsoft-365-compromis/
-  date: Mon, 19 Oct 2026 05:06:44 +0000
+  title: 'Quad9 quitte la France : le DNS 9.9.9.9 sera coupé le 24 novembre 2026'
+  link: https://www.it-connect.fr/quad9-quitte-la-france-blocage-dns/
+  date: Mon, 26 Oct 2026 07:35:50 +0000
 - source: IT-Connect
-  title: 'PwnEscape : une faille Linux permet de s’évader d’une VM KVM'
-  link: https://www.it-connect.fr/pwnescape-cve-2026-99999-faille-noyau-linux-evasion-vm/
-  date: Fri, 16 Oct 2026 16:24:02 +0000
+  title: 'Popcorn Time : un processus oublié menaçait des millions de PC (CVE-2026-30612)'
+  link: https://www.it-connect.fr/popcorn-time-updater-cve-2026-30612/
+  date: Mon, 26 Oct 2026 06:29:03 +0000
 - source: IT-Connect
-  title: 'Cloud & Cyber Security Expo Paris 2026 : les inscriptions sont ouvertes'
-  link: https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-les-inscriptions-sont-ouvertes/
-  date: Fri, 16 Oct 2026 16:00:00 +0000
+  title: 'Pulse : les journaux d’événements de Windows facilement lisibles, avec de
+    l’IA locale'
+  link: https://www.it-connect.fr/pulse-journaux-evenements-de-windows-facilement-lisibles-avec-ia-locale/
+  date: Sat, 24 Oct 2026 05:00:00 +0000
+- source: Korben
+  title: Test du chargeur UGREEN Nexode Pro 300W
+  link: https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Thu, 22 Oct 2026 16:44:30 +0200
+- source: Korben
+  title: 'Votre VPN est-il prêt pour les menaces futures ? #sponso'
+  link: https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Thu, 22 Oct 2026 09:15:54 +0200
+- source: Korben
+  title: Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE
+  link: https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Tue, 20 Oct 2026 09:51:56 +0200
+- source: Korben
+  title: La Disquette - Un vieux jeu PC par semaine, sans rien installer
+  link: https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Tue, 20 Oct 2026 07:14:23 +0200
 - source: Korben
   title: Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement
   link: https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
   date: Mon, 19 Oct 2026 12:04:36 +0200
-- source: Korben
-  title: plMail - Toutes vos boîtes mail rassemblées dans une interface
-  link: https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 19 Oct 2026 11:04:16 +0200
-- source: Korben
-  title: Keepsweeper - Un Démineur avec des péons et des dragons
-  link: https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 19 Oct 2026 10:32:24 +0200
-- source: Korben
-  title: Music Bridge - Pour que les liens musicaux s'ouvrent bien sur votre plateforme
-    favorite
-  link: https://korben.info/music-bridge-extension-liens-musique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 19 Oct 2026 10:16:44 +0200
-- source: Korben
-  title: Et si vous commenciez par effacer ce que les data brokers savent de vous
-    ?
-  link: https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 19 Oct 2026 09:50:58 +0200
 - source: ZDnet
-  title: Vous disposez d'un compte professionnel Meta ? Selon ces juristes, cela revient
-    tout simplement à accepter le « scraping » par l'IA
-  link: https://www.zdnet.fr/actualites/vous-disposez-dun-compte-professionnel-meta-selon-ces-juristes-cela-revient-tout-simplement-a-accepter-le-scraping-par-lia-506049.htm#xtor=RSS-1
-  date: Mon, 19 Oct 2026 12:10:21 GMT
+  title: Les tendances technologiques de Gartner pour 2027 viennent d'être dévoilées,
+    et elles vont bien au-delà de l'IA
+  link: https://www.zdnet.fr/actualites/les-tendances-technologiques-de-gartner-pour-2027-viennent-detre-devoilees-et-elles-vont-bien-au-dela-de-lia-506474.htm#xtor=RSS-1
+  date: Mon, 26 Oct 2026 01:10:57 GMT
 - source: ZDnet
-  title: Munich abandonne (une nouvelle fois) les logiciels propriétaires au profit
-    de l'open source, mais pas pour les ordinateurs de bureau sous Linux
-  link: https://www.zdnet.fr/actualites/munich-abandonne-une-nouvelle-fois-les-logiciels-proprietaires-au-profit-de-lopen-source-mais-pas-pour-les-ordinateurs-de-bureau-sous-linux-506042.htm#xtor=RSS-1
-  date: Mon, 19 Oct 2026 12:10:07 GMT
+  title: 'ZDNET Morning 26/10/2026 : Anthropic assigné en justice par Elvis, IA locale
+    : Block dévoile Dessa, Affaire Holograph : 5 ans de prison requis,...'
+  link: https://www.zdnet.fr/actualites/zdnet-morning-26-10-2026-anthropic-assigne-en-justice-par-elvis-ia-locale-block-devoile-dessa-affaire-holograph-5-ans-de-prison-requis-506466.htm#xtor=RSS-1
+  date: Mon, 26 Oct 2026 11:10:28 GMT
 - source: ZDnet
-  title: 'ZDNET Morning 19/10/2026 : Fronde contre PC Soft, Alternative gratuite à
-    Microsoft Word, L''assistance vocale GenAI pour le diagnostic matériel,...'
-  link: https://www.zdnet.fr/actualites/zdnet-morning-19-10-2026-fronde-contre-pc-soft-alternative-gratuite-a-microsoft-word-lassistance-vocale-genai-pour-le-diagnostic-materiel-506039.htm#xtor=RSS-1
-  date: Mon, 19 Oct 2026 11:10:12 GMT
+  title: 'ZD Tech : Le Dell XPS 13 révolutionne enfin l''esthétique des ordinateurs'
+  link: https://www.zdnet.fr/publicite/zd-tech-le-dell-xps-13-revolutionne-enfin-lesthetique-des-ordinateurs-505785.htm#xtor=RSS-1
+  date: Mon, 26 Oct 2026 08:10:15 GMT
 - source: ZDnet
-  title: 'ZD Tech : Ce que vous risquez si vous continuez d''insulter une IA comme
-    Claude'
-  link: https://www.zdnet.fr/actualites/zd-tech-ce-que-vous-risquez-si-vous-continuez-dinsulter-une-ia-comme-claude-505715.htm#xtor=RSS-1
-  date: Mon, 19 Oct 2026 09:10:18 GMT
+  title: 'Linux pratique : comment vider vos dossiers « corbeille » cachés pour libérer
+    de l''espace'
+  link: https://www.zdnet.fr/pratique/linux-pratique-comment-vider-vos-dossiers-corbeille-caches-pour-liberer-de-lespace-506355.htm#xtor=RSS-1
+  date: Fri, 23 Oct 2026 07:10:08 GMT
 - source: ZDnet
-  title: 'PC pratique : 5 logiciels que vous devriez systématiquement installer sur
-    tout nouvel ordinateur'
-  link: https://www.zdnet.fr/guide-achat/pc-pratique-5-logiciels-que-vous-devriez-systematiquement-installer-sur-tout-nouvel-ordinateur-505995.htm#xtor=RSS-1
-  date: Sat, 17 Oct 2026 12:10:54 GMT
+  title: 'ZD Tech : Achats en ligne : la croissance de l''e-commerce européen va-t-elle
+    vous toucher ?'
+  link: https://www.zdnet.fr/actualites/zd-tech-achats-en-ligne-la-croissance-de-le-commerce-europeen-va-t-elle-vous-toucher-506161.htm#xtor=RSS-1
+  date: Fri, 23 Oct 2026 09:10:41 GMT
 - source: BleepingComputer
-  title: Hackers exploit SiteGuard WAF flaw to run commands as admins
-  link: https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/
-  date: Sun, 18 Oct 2026 10:23:16 -0400
+  title: Kali Linux 2026.3 released with 6 new tools, desktop updates
+  link: https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/
+  date: Mon, 26 Oct 2026 06:26:52 -0400
 - source: BleepingComputer
-  title: Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
-  link: https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/
-  date: Sat, 17 Oct 2026 11:18:51 -0400
+  title: PHP2Shell security flaws now sucessfully exploited in the wild
+  link: https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/
+  date: Mon, 26 Oct 2026 05:19:57 -0400
 - source: BleepingComputer
-  title: Drupal patches critical RCE flaws, warns exploits may emerge soon
-  link: https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/
-  date: Sat, 17 Oct 2026 10:32:48 -0400
+  title: AI coding agents hijacked using AGENTS.md file in Downloads folder
+  link: https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/
+  date: Sun, 25 Oct 2026 11:49:38 -0400
 - source: BleepingComputer
-  title: Critical BlockStrap flaw lets hackers run code on Magento servers
-  link: https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/
-  date: Fri, 16 Oct 2026 16:00:59 -0400
+  title: BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot
+  link: https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/
+  date: Sat, 24 Oct 2026 10:17:32 -0400
 - source: BleepingComputer
-  title: Targeted ads installed Candiru spyware in zero-click attacks
-  link: https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/
-  date: Fri, 16 Oct 2026 13:20:03 -0400
+  title: Abandoned Popcorn Time app exposed millions of devices to RCE attacks
+  link: https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/
+  date: Fri, 23 Oct 2026 16:55:05 -0400
 - source: TheHackernews
-  title: Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent
-    Traffic
-  link: https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html
-  date: Mon, 19 Oct 2026 15:36:40 +0530
+  title: 'Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses'
+  link: https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html
+  date: Mon, 26 Oct 2026 16:53:56 +0530
 - source: TheHackernews
-  title: Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on
-    Routers
-  link: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
-  date: Mon, 19 Oct 2026 11:59:44 +0530
+  title: uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat
+    Accounts
+  link: https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html
+  date: Mon, 26 Oct 2026 15:24:02 +0530
 - source: TheHackernews
-  title: OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API
-    Keys
-  link: https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
-  date: Mon, 19 Oct 2026 11:37:08 +0530
+  title: Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations
+  link: https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html
+  date: Mon, 26 Oct 2026 14:05:51 +0530
 - source: TheHackernews
-  title: ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365
-    Tenants
-  link: https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
-  date: Sun, 18 Oct 2026 13:53:02 +0530
+  title: Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via
+    Actions Logs
+  link: https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
+  date: Mon, 26 Oct 2026 13:19:46 +0530
 - source: TheHackernews
-  title: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
-  link: https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
-  date: Sat, 17 Oct 2026 16:41:56 +0530
+  title: Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing
+    Malware
+  link: https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+  date: Mon, 26 Oct 2026 11:33:48 +0530
