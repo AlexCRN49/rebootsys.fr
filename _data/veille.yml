@@ -1,24 +1,23 @@
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)
-  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/
-  date: Mon, 19 Oct 2026 00:00:00 +0000
+  title: Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)
+  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/
+  date: Thu, 12 Nov 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans WordPress (29 octobre 2026)
-  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/
-  date: Thu, 29 Oct 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Xen (12 novembre 2026)
+  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/
+  date: Thu, 12 Nov 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits Citrix (04 novembre 2026)
-  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1449/
-  date: Wed, 04 Nov 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)
+  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/
+  date: Thu, 12 Nov 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans Google Chrome (04 novembre 2026)
-  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/
-  date: Wed, 04 Nov 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)
+  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/
+  date: Thu, 12 Nov 2026 00:00:00 +0000
 - source: CERT-FR - Avis
-  title: Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre
-    2026)
-  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/
-  date: Wed, 04 Nov 2026 00:00:00 +0000
+  title: Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)
+  link: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/
+  date: Thu, 12 Nov 2026 00:00:00 +0000
 - source: CERT-FR - Alertes
   title: Vulnérabilité dans Apple Mac OS X (24 juillet 2015)
   link: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2015-ALE-009/
@@ -40,9 +39,14 @@
   link: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/
   date: Mon, 01 Jul 2024 00:00:00 +0000
 - source: ANSSI - Actualités
+  title: Campagnes de déstabilisation et sabotage menées à l’encontre des intérêts
+    français par la République islamique d’Iran
+  link: https://cyber.gouv.fr/actualites/campagnes-de-d%C3%A9stabilisation-et-sabotage-men%C3%A9es-%C3%A0-lencontre-des-int%C3%A9r%C3%AAts-fran%C3%A7ais-par-la-r%C3%A9publique-islamique-diran/
+  date: Mon, 09 Nov 2026 16:00:00 +0000
+- source: ANSSI - Actualités
   title: Participation de l’ANSSI à l’European Cyber Week (ECW) 2026
   link: https://cyber.gouv.fr/actualites/anssi-ecw-2026/
-  date: Fri, 06 Nov 2026 15:35:00 +0000
+  date: Mon, 09 Nov 2026 15:35:00 +0000
 - source: ANSSI - Actualités
   title: 'ECSC 2026 : la Team France à Bochum'
   link: https://cyber.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/
@@ -57,120 +61,118 @@
     DGFiP
   link: https://cyber.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/
   date: Tue, 29 Sep 2026 10:00:00 +0000
-- source: ANSSI - Actualités
-  title: 'Cyber Résilience Act : l''ANSSI, l''ANFR et la DGE accompagnent les fabricants
-    dans la conformité des produits numériques'
-  link: https://cyber.gouv.fr/actualites/cra-lanssi-lanfr-et-la-dge-accompagnent-les-fabricants-dans-la-conformite-des-produits-numeriques/
-  date: Wed, 23 Sep 2026 10:41:00 +0000
 - source: IT-Connect
-  title: 'VMware vSphere Express : Broadcom revient vers les PME avec une nouvelle
-    offre !'
-  link: https://www.it-connect.fr/vmware-vsphere-express-128-coeurs-pme/
-  date: Mon, 09 Nov 2026 10:45:00 +0000
+  title: 'Erreur 0x80041008 : Microsoft corrige l’activation de Windows avec des mises
+    à jour hors bande'
+  link: https://www.it-connect.fr/windows-mise-a-jour-hors-bande-activation-slmgr-080041008/
+  date: Mon, 16 Nov 2026 13:56:55 +0000
 - source: IT-Connect
-  title: 'Bon plan : les serrures connectées WELOCK aux prix les plus bas de l’année
-    pour le 11.11'
-  link: https://www.it-connect.fr/bon-plan-welock-novembre-2026-single-day/
-  date: Mon, 09 Nov 2026 10:36:03 +0000
+  title: 'GTA 6 : comment 212 Go arrivent sur des millions de consoles sans saturer
+    Internet ?'
+  link: https://www.it-connect.fr/gta-6-prechargement-cdn-chiffrement/
+  date: Mon, 16 Nov 2026 09:55:46 +0000
 - source: IT-Connect
-  title: Moins d’un PC Windows sur deux patché en 2 semaines, et c’est risqué avec
-    l’IA !
-  link: https://www.it-connect.fr/microsoft-windows-mises-a-jour-securite-patch-gap-ia/
-  date: Mon, 09 Nov 2026 08:43:15 +0000
+  title: 'Bon plan Geekom : les meilleures offres sur les mini-PC avant même le Black
+    Friday'
+  link: https://www.it-connect.fr/bon-plan-geekom-les-meilleures-offres-sur-les-mini-pc-avant-meme-le-black-friday/
+  date: Mon, 16 Nov 2026 07:00:00 +0000
 - source: IT-Connect
-  title: Infomaniak lance un service de stockage objet S3 souverain en Suisse
-  link: https://www.it-connect.fr/infomaniak-stockage-objet-s3/
-  date: Mon, 09 Nov 2026 07:40:36 +0000
+  title: 'Nextcloud Office Desktop : l’application de bureau basée sur Euro-Office
+    est disponible'
+  link: https://www.it-connect.fr/nextcloud-office-desktop-euro-office-disponible/
+  date: Mon, 16 Nov 2026 06:25:59 +0000
 - source: IT-Connect
-  title: 'Bon plan VZMORE AX9 MAX : ce mini-PC Ryzen AI 9 HX 470 à son prix le plus
-    bas sur le Web'
-  link: https://www.it-connect.fr/bon-plan-vzmore-ax9-max-novembre-2026/
-  date: Mon, 09 Nov 2026 06:45:00 +0000
+  title: 'Linux 7.4 : pour Linus Torvalds, les correctifs assistés par l’IA sont devenus
+    la norme'
+  link: https://www.it-connect.fr/linux-7-4-correctifs-ia-norme-torvalds/
+  date: Mon, 16 Nov 2026 05:58:44 +0000
 - source: Korben
-  title: NomadNet - Votre site et vos fichiers sur Reticulum
-  link: https://korben.info/reticulum-nomadnet-site-fichiers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 09 Nov 2026 14:18:03 +0100
+  title: OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser
+  link: https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Sun, 15 Nov 2026 10:26:21 +0100
 - source: Korben
-  title: Chicago95 - Votre Xubuntu déguisé en Windows 95
-  link: https://korben.info/chicago95-xfce-windows-95.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 09 Nov 2026 14:16:31 +0100
+  title: Vectors - Aiguilleur du ciel ze game !
+  link: https://korben.info/vectors-jeu-controle-aerien-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Sun, 15 Nov 2026 07:54:41 +0100
 - source: Korben
-  title: iKnow - Ce que votre Mac sait de votre famille
-  link: https://korben.info/graphe-connaissances-apple-iknow.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Mon, 09 Nov 2026 13:12:35 +0100
+  title: Stela - Le retour du Hackintosh ?
+  link: https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Sat, 14 Nov 2026 02:03:37 +0100
 - source: Korben
-  title: War.app - Le jeu de conquête où personne n'attend son tour
-  link: https://korben.info/war-app-warzone-risk-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Fri, 06 Nov 2026 10:58:12 +0100
+  title: Agent-desktop pilote vos applis sans regarder l'écran
+  link: https://korben.info/agent-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Fri, 13 Nov 2026 11:57:03 +0100
 - source: Korben
-  title: Comment activer XeSS et sa génération de frames en x4 dans vos jeux Linux
-  link: https://korben.info/xess-xmx-linux-proton.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
-  date: Fri, 06 Nov 2026 10:44:47 +0100
+  title: Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne
+  link: https://korben.info/modern-web-guidance-agents-web.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal
+  date: Thu, 12 Nov 2026 09:00:00 +0100
 - source: ZDnet
-  title: 'Non conformité MiCA : Binance France acte sa fermeture et taxe les comptes'
-  link: https://www.zdnet.fr/actualites/non-conformite-mica-binance-france-acte-sa-fermeture-et-taxe-les-comptes-507579.htm#xtor=RSS-1
-  date: Mon, 9 Nov 2026 03:11:41 GMT
+  title: '« Nous avons besoin de plus de testeurs » : trouver des bogues sous Linux,
+    c''est facile aujourd''hui, mais les corriger, c''est une autre histoire'
+  link: https://www.zdnet.fr/actualites/nous-avons-besoin-de-plus-de-testeurs-trouver-des-bogues-sous-linux-cest-facile-aujourdhui-mais-les-corriger-cest-une-autre-histoire-507943.htm#xtor=RSS-1
+  date: Mon, 16 Nov 2026 04:11:33 GMT
 - source: ZDnet
-  title: Le nouveau modèle de Thinking Machines s'impose comme leader dans le domaine
-    de l'IA « open-weight » en Occident
-  link: https://www.zdnet.fr/actualites/le-nouveau-modele-de-thinking-machines-simpose-comme-leader-dans-le-domaine-de-lia-open-weight-en-occident-507563.htm#xtor=RSS-1
-  date: Mon, 9 Nov 2026 12:11:37 GMT
+  title: Reddit lance une fonctionnalité d'avis alimentée par l'IA, avec 10 000 produits
+    pour commencer
+  link: https://www.zdnet.fr/actualites/reddit-lance-une-fonctionnalite-davis-alimentee-par-lia-avec-10-000-produits-pour-commencer-507937.htm#xtor=RSS-1
+  date: Mon, 16 Nov 2026 01:11:27 GMT
 - source: ZDnet
-  title: Vous en avez assez des réseaux sociaux ? La plateforme du MIT vous permet
-    de créer vos propres réseaux décentralisés
-  link: https://www.zdnet.fr/actualites/vous-en-avez-assez-des-reseaux-sociaux-la-plateforme-du-mit-vous-permet-de-creer-vos-propres-reseaux-decentralises-507552.htm#xtor=RSS-1
-  date: Mon, 9 Nov 2026 12:11:57 GMT
+  title: Vos montres connectées FitBit Versa et Sense perdront certaines fonctionnalités
+    ce mois-ci, ce qu'il faut savoir
+  link: https://www.zdnet.fr/actualites/vos-montres-connectees-fitbit-versa-et-sense-perdront-certaines-fonctionnalites-ce-mois-ci-ce-quil-faut-savoir-507933.htm#xtor=RSS-1
+  date: Mon, 16 Nov 2026 01:11:59 GMT
 - source: ZDnet
-  title: Apple va surveiller vos liens iCloud publics à partir d'iOS 27.3
-  link: https://www.zdnet.fr/actualites/apple-va-surveiller-vos-liens-icloud-publics-a-partir-dios-27-3-507548.htm#xtor=RSS-1
-  date: Mon, 9 Nov 2026 11:11:08 GMT
+  title: Vous souhaitez davantage de fonctionnalités d'IA dans Creator Studio ? Apple
+    pourrait vous facturer ce service
+  link: https://www.zdnet.fr/actualites/vous-souhaitez-davantage-de-fonctionnalites-dia-dans-creator-studio-apple-pourrait-vous-facturer-ce-service-507923.htm#xtor=RSS-1
+  date: Mon, 16 Nov 2026 01:11:57 GMT
 - source: ZDnet
-  title: 'ZDNET Morning 09/11/2026 : Jensen Huang pris dans une affaire d''espionnage,
-    IA et projets d''intégration SI, Vidéo par IA et propriété intellectuelle en entreprise,...'
-  link: https://www.zdnet.fr/actualites/zdnet-morning-09-11-2026-jensen-huang-pris-dans-une-affaire-despionnage-ia-et-projets-dintegration-si-video-par-ia-et-propriete-intellectuelle-en-entreprise-507546.htm#xtor=RSS-1
-  date: Mon, 9 Nov 2026 11:11:15 GMT
+  title: J'ai verrouillé mon agent OpenClaw avec Claude Code, puis je l'ai mis au
+    défi de s'échapper
+  link: https://www.zdnet.fr/actualites/jai-verrouille-mon-agent-openclaw-avec-claude-code-puis-je-lai-mis-au-defi-de-sechapper-507915.htm#xtor=RSS-1
+  date: Mon, 16 Nov 2026 12:11:58 GMT
 - source: BleepingComputer
-  title: The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.
-  link: https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/
-  date: Mon, 09 Nov 2026 10:05:15 -0500
+  title: Google warns that fully-automated AI attacks are coming soon
+  link: https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/
+  date: Mon, 16 Nov 2026 09:00:00 -0500
 - source: BleepingComputer
-  title: FBI agent stole $2.5 million in crypto from hackers under investigation
-  link: https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/
-  date: Mon, 09 Nov 2026 09:34:03 -0500
+  title: Australian retail giant Coles investigates cybersecurity incident
+  link: https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/
+  date: Mon, 16 Nov 2026 06:18:09 -0500
 - source: BleepingComputer
-  title: US bans MEXC crypto exchange over sanctions evasion, cybercrime links
-  link: https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/
-  date: Mon, 09 Nov 2026 08:28:56 -0500
+  title: Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets
+    better at finding bugs
+  link: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/
+  date: Mon, 16 Nov 2026 06:00:00 -0500
 - source: BleepingComputer
-  title: Ukraine dismantles crypto scam network that stole €4.3 million
-  link: https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/
-  date: Mon, 09 Nov 2026 07:16:13 -0500
+  title: New NoisyTCP vulnerability lets attackers crash Linux servers
+  link: https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/
+  date: Mon, 16 Nov 2026 04:30:04 -0500
 - source: BleepingComputer
-  title: Iris Ohyama data cloud breach exposes info of 7.7 million customers
-  link: https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/
-  date: Sun, 08 Nov 2026 10:43:08 -0500
+  title: FBI warns ARTEX AI hacking tool is powering global cyberattacks
+  link: https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
+  date: Sun, 15 Nov 2026 13:29:53 -0500
 - source: TheHackernews
-  title: '⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked
-    Sites, and More'
-  link: https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html
-  date: Mon, 09 Nov 2026 18:58:25 +0530
+  title: Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover
+    Without Login
+  link: https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html
+  date: Mon, 16 Nov 2026 18:04:21 +0530
 - source: TheHackernews
-  title: Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers,
-    Unlock and Start Cars
-  link: https://thehackernews.com/2026/11/default-adminadmin-server-password.html
-  date: Mon, 09 Nov 2026 16:57:53 +0530
+  title: Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware
+  link: https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html
+  date: Mon, 16 Nov 2026 18:03:18 +0530
 - source: TheHackernews
-  title: Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets
-    for Safety
-  link: https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html
-  date: Mon, 09 Nov 2026 16:26:25 +0530
+  title: SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU
+    Activity
+  link: https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html
+  date: Mon, 16 Nov 2026 15:02:57 +0530
 - source: TheHackernews
-  title: LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers
-    Amid Attacks
-  link: https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html
-  date: Mon, 09 Nov 2026 15:31:21 +0530
+  title: Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps
+    for API Keys
+  link: https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html
+  date: Mon, 16 Nov 2026 13:04:21 +0530
 - source: TheHackernews
-  title: Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch
-    Records
-  link: https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html
-  date: Mon, 09 Nov 2026 14:31:50 +0530
+  title: BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's
+    Code-Signing Server
+  link: https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
+  date: Mon, 16 Nov 2026 12:23:34 +0530
